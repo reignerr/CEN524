@@ -1,0 +1,1001 @@
+Ticket ID,Department,Issue Type,Support Staff Experience Level,Experience Years,Urgency Level,Time to Complete Repair (hrs),Success Rate (%),Resolution Time (hrs),Ticket Status
+IT-1000,Finance,Hardware Repair,Senior,8.9,High,0.66,79.17,3,Resolved
+IT-1001,Engineering,Software Troubleshooting,Junior,0.3,Medium,1.72,54.12,5,Resolved
+IT-1002,HR,Hardware Repair,Senior,7.9,Medium,1.54,58.2,6,Resolved
+IT-1003,Sales,Hardware Repair,Senior,7.2,Medium,1.67,61.46,6,Resolved
+IT-1004,Marketing,Hardware Repair,Junior,0.3,Medium,2.64,42.64,7,Escalated
+IT-1005,Finance,Software Troubleshooting,Junior,1.7,High,1.58,49.66,2,Resolved
+IT-1006,Sales,Asset Deployment,Junior,1.1,Low,0.5,62.11,14,Resolved
+IT-1007,Sales,Software Troubleshooting,Senior,8.0,Medium,0.88,73.03,6,Resolved
+IT-1008,Sales,Cybersecurity,Junior,1.9,High,3.61,37.06,1,Escalated
+IT-1009,Marketing,Asset Deployment,Mid-Level,5.3,Medium,1.26,70.67,6,Escalated
+IT-1010,Finance,Software Troubleshooting,Senior,10.3,Medium,0.5,81.61,7,Escalated
+IT-1011,Marketing,Network Issue,Mid-Level,4.9,High,2.66,53.92,2,Escalated
+IT-1012,HR,Software Troubleshooting,Mid-Level,3.7,Medium,1.2,65.83,6,Resolved
+IT-1013,Finance,Hardware Repair,Mid-Level,3.9,High,2.67,47.23,1,Resolved
+IT-1014,Finance,Network Issue,Mid-Level,5.8,Low,3.26,54.45,13,Resolved
+IT-1015,Sales,Network Issue,Junior,1.7,Low,3.28,45.88,9,Resolved
+IT-1016,Marketing,Asset Deployment,Junior,0.7,Medium,1.3,60.47,7,Escalated
+IT-1017,Marketing,Hardware Repair,Senior,7.0,High,0.5,77.89,3,Resolved
+IT-1018,Engineering,Asset Deployment,Mid-Level,3.5,Medium,1.3,55.54,4,Escalated
+IT-1019,Sales,Software Troubleshooting,Senior,8.3,High,0.5,78.2,1,Escalated
+IT-1020,Finance,Hardware Repair,Senior,9.1,Medium,1.14,72.56,5,Resolved
+IT-1021,HR,Network Issue,Junior,2.0,Medium,3.85,29.08,4,Escalated
+IT-1022,HR,Hardware Repair,Mid-Level,4.4,Low,2.1,59.52,11,Resolved
+IT-1023,Engineering,Cybersecurity,Senior,10.5,High,1.29,77.6,2,Resolved
+IT-1024,Engineering,Software Troubleshooting,Mid-Level,4.9,Medium,1.61,57.49,7,Resolved
+IT-1025,Engineering,Software Troubleshooting,Senior,10.7,Medium,0.68,73.82,7,Escalated
+IT-1026,Engineering,Hardware Repair,Senior,9.8,High,0.5,81.76,1,Resolved
+IT-1027,HR,Asset Deployment,Senior,8.7,Low,1.28,68.64,8,Resolved
+IT-1028,HR,Software Troubleshooting,Mid-Level,3.3,High,1.71,53.12,2,Resolved
+IT-1029,Marketing,Network Issue,Senior,10.3,High,1.62,64.57,1,Resolved
+IT-1030,Sales,Software Troubleshooting,Senior,10.7,Medium,0.5,88.36,6,Resolved
+IT-1031,Engineering,Hardware Repair,Junior,0.5,Low,2.86,46.8,9,Escalated
+IT-1032,Finance,Network Issue,Mid-Level,4.9,High,3.12,45.82,3,Escalated
+IT-1033,Engineering,Hardware Repair,Junior,0.1,High,2.97,38.45,2,Resolved
+IT-1034,Sales,Network Issue,Junior,1.9,Low,3.73,39.23,14,Escalated
+IT-1035,Marketing,Cybersecurity,Senior,8.0,High,2.28,49.51,2,Escalated
+IT-1036,Marketing,Software Troubleshooting,Mid-Level,4.7,Low,1.49,60.38,10,Resolved
+IT-1037,HR,Software Troubleshooting,Senior,8.6,High,1.08,81.35,2,Escalated
+IT-1038,Sales,Asset Deployment,Mid-Level,5.7,Medium,1.19,86.86,7,Resolved
+IT-1039,Sales,Cybersecurity,Senior,7.3,Medium,1.79,74.27,4,Resolved
+IT-1040,Marketing,Network Issue,Junior,0.6,High,3.63,31.47,2,Escalated
+IT-1041,HR,Asset Deployment,Mid-Level,4.0,Low,0.83,73.08,13,Resolved
+IT-1042,Finance,Hardware Repair,Junior,1.1,Medium,3.85,36.5,5,Escalated
+IT-1043,HR,Software Troubleshooting,Senior,7.2,Medium,0.5,67.05,4,Escalated
+IT-1044,Marketing,Asset Deployment,Junior,1.7,High,0.94,70.8,1,Resolved
+IT-1045,Marketing,Cybersecurity,Senior,7.5,Medium,2.64,67.32,5,Resolved
+IT-1046,Marketing,Asset Deployment,Mid-Level,3.7,High,1.76,53.27,2,Resolved
+IT-1047,Sales,Hardware Repair,Senior,8.6,Medium,1.01,79.72,6,Resolved
+IT-1048,Finance,Asset Deployment,Mid-Level,4.9,Medium,0.95,66.34,7,Resolved
+IT-1049,Engineering,Hardware Repair,Mid-Level,5.1,Low,2.26,58.9,15,Resolved
+IT-1050,Marketing,Software Troubleshooting,Mid-Level,4.7,Low,1.49,63.07,8,Resolved
+IT-1051,Finance,Network Issue,Senior,8.0,Medium,1.43,65.54,6,Resolved
+IT-1052,HR,Asset Deployment,Junior,0.1,High,1.93,46.61,2,Escalated
+IT-1053,Engineering,Asset Deployment,Senior,10.5,High,0.71,78.77,1,Resolved
+IT-1054,HR,Software Troubleshooting,Mid-Level,3.5,Low,1.91,61.7,14,Resolved
+IT-1055,HR,Asset Deployment,Senior,11.3,Medium,0.5,85.65,4,Resolved
+IT-1056,Finance,Asset Deployment,Mid-Level,5.7,Medium,1.58,63.81,6,Resolved
+IT-1057,Marketing,Hardware Repair,Junior,1.9,Low,2.41,56.4,11,Resolved
+IT-1058,Engineering,Network Issue,Junior,1.3,Medium,2.76,42.33,4,Escalated
+IT-1059,Finance,Software Troubleshooting,Senior,10.9,Low,1.45,77.14,9,Resolved
+IT-1060,Finance,Hardware Repair,Senior,7.5,High,1.62,62.15,2,Resolved
+IT-1061,Marketing,Hardware Repair,Senior,9.6,Low,1.3,66.99,8,Escalated
+IT-1062,HR,Software Troubleshooting,Senior,11.9,High,0.5,91.13,1,Resolved
+IT-1063,Marketing,Asset Deployment,Junior,0.5,High,1.09,49.46,2,Resolved
+IT-1064,Engineering,Asset Deployment,Senior,7.6,Medium,0.9,69.53,7,Resolved
+IT-1065,Marketing,Software Troubleshooting,Senior,9.4,Medium,0.78,73.65,7,Escalated
+IT-1066,HR,Network Issue,Mid-Level,3.1,Low,3.21,51.19,10,Resolved
+IT-1067,Engineering,Cybersecurity,Senior,7.4,High,2.3,54.25,1,Resolved
+IT-1068,Marketing,Hardware Repair,Junior,1.8,High,3.73,27.93,2,Resolved
+IT-1069,HR,Hardware Repair,Mid-Level,3.8,Medium,1.58,56.68,4,Resolved
+IT-1070,Finance,Asset Deployment,Senior,11.1,Low,0.5,86.46,9,Resolved
+IT-1071,HR,Asset Deployment,Junior,1.2,High,1.45,61.24,1,Resolved
+IT-1072,Finance,Hardware Repair,Senior,11.9,Medium,1.31,73.34,6,Escalated
+IT-1073,Finance,Software Troubleshooting,Junior,0.9,High,1.08,56.62,2,Resolved
+IT-1074,Finance,Network Issue,Junior,1.5,Medium,3.68,39.74,5,Resolved
+IT-1075,Sales,Software Troubleshooting,Mid-Level,4.4,Medium,0.73,72.71,7,Resolved
+IT-1076,Marketing,Software Troubleshooting,Senior,10.4,Medium,1.39,74.01,5,Resolved
+IT-1077,HR,Asset Deployment,Senior,11.4,High,0.5,82.15,3,Resolved
+IT-1078,Marketing,Software Troubleshooting,Mid-Level,5.4,Low,1.4,70.41,9,Resolved
+IT-1079,Marketing,Software Troubleshooting,Junior,0.9,Medium,1.75,57.59,7,Resolved
+IT-1080,Finance,Cybersecurity,Mid-Level,5.6,High,3.13,48.89,1,Escalated
+IT-1081,Marketing,Cybersecurity,Mid-Level,4.0,High,3.01,46.91,1,Escalated
+IT-1082,Finance,Hardware Repair,Junior,0.8,Medium,2.39,50.24,6,Resolved
+IT-1083,Marketing,Network Issue,Junior,1.3,High,3.43,32.06,1,Escalated
+IT-1084,HR,Software Troubleshooting,Junior,0.1,Medium,2.83,53.77,5,Resolved
+IT-1085,Sales,Cybersecurity,Junior,1.4,Medium,4.18,31.6,7,Resolved
+IT-1086,Marketing,Software Troubleshooting,Mid-Level,5.6,Low,1.34,63.4,15,Resolved
+IT-1087,Marketing,Software Troubleshooting,Junior,1.2,Medium,1.53,45.74,6,Resolved
+IT-1088,Marketing,Asset Deployment,Junior,1.4,High,1.6,57.99,2,Resolved
+IT-1089,Finance,Asset Deployment,Junior,0.5,High,1.07,51.95,1,Resolved
+IT-1090,Finance,Software Troubleshooting,Junior,1.1,Medium,1.5,50.87,6,Resolved
+IT-1091,Marketing,Cybersecurity,Mid-Level,3.3,Medium,5.09,29.67,7,Escalated
+IT-1092,HR,Cybersecurity,Junior,0.7,High,4.88,21.69,3,Escalated
+IT-1093,HR,Cybersecurity,Junior,0.5,High,4.51,18.79,2,Resolved
+IT-1094,Marketing,Network Issue,Mid-Level,5.5,Low,2.62,60.13,13,Resolved
+IT-1095,Engineering,Cybersecurity,Senior,7.9,High,2.63,55.27,2,Escalated
+IT-1096,Sales,Cybersecurity,Junior,0.4,High,4.49,12.25,1,Escalated
+IT-1097,HR,Network Issue,Junior,1.5,Low,3.61,35.63,10,Resolved
+IT-1098,Finance,Asset Deployment,Senior,8.7,Medium,0.5,83.3,4,Resolved
+IT-1099,Sales,Hardware Repair,Senior,10.0,Low,0.89,79.45,12,Escalated
+IT-1100,Engineering,Hardware Repair,Junior,1.9,Low,2.86,55.33,12,Resolved
+IT-1101,Sales,Cybersecurity,Senior,7.8,Medium,2.6,54.9,5,Resolved
+IT-1102,Sales,Software Troubleshooting,Junior,1.2,Medium,1.59,65.64,4,Resolved
+IT-1103,Sales,Hardware Repair,Junior,0.9,Medium,1.89,57.58,5,Escalated
+IT-1104,Finance,Asset Deployment,Junior,1.2,High,0.64,70.68,3,Resolved
+IT-1105,HR,Cybersecurity,Junior,1.5,Medium,4.91,28.45,5,Escalated
+IT-1106,Sales,Software Troubleshooting,Senior,10.8,Low,0.5,87.65,11,Resolved
+IT-1107,Sales,Hardware Repair,Senior,10.0,Medium,2.59,61.68,5,Resolved
+IT-1108,Finance,Cybersecurity,Senior,10.5,High,0.68,81.42,3,Resolved
+IT-1109,Sales,Asset Deployment,Senior,8.1,Medium,0.5,75.47,4,Resolved
+IT-1110,Engineering,Network Issue,Junior,1.2,Medium,3.73,38.33,7,Resolved
+IT-1111,Engineering,Software Troubleshooting,Mid-Level,4.7,Medium,0.7,80.27,5,Resolved
+IT-1112,Marketing,Software Troubleshooting,Senior,7.6,Medium,1.01,78.04,6,Escalated
+IT-1113,Engineering,Cybersecurity,Mid-Level,3.6,High,4.04,38.15,1,Escalated
+IT-1114,Finance,Hardware Repair,Mid-Level,4.4,Medium,2.54,51.74,7,Resolved
+IT-1115,Sales,Asset Deployment,Junior,0.4,Low,0.5,65.9,14,Resolved
+IT-1116,Finance,Asset Deployment,Junior,0.4,Low,1.5,49.74,11,Escalated
+IT-1117,Sales,Network Issue,Junior,0.2,Medium,3.95,31.62,5,Escalated
+IT-1118,Engineering,Hardware Repair,Junior,1.6,Medium,2.46,37.45,5,Escalated
+IT-1119,Engineering,Network Issue,Junior,0.1,Medium,3.85,39.19,5,Escalated
+IT-1120,Marketing,Asset Deployment,Senior,7.8,Low,0.86,73.99,10,Resolved
+IT-1121,Engineering,Asset Deployment,Senior,9.0,High,1.07,79.59,3,Resolved
+IT-1122,Sales,Hardware Repair,Senior,9.5,Medium,0.5,85.89,4,Resolved
+IT-1123,Sales,Network Issue,Senior,7.5,Low,2.41,56.11,11,Escalated
+IT-1124,Finance,Software Troubleshooting,Mid-Level,3.4,High,0.7,63.46,2,Resolved
+IT-1125,Finance,Hardware Repair,Senior,7.1,Medium,1.74,58.18,4,Resolved
+IT-1126,Sales,Software Troubleshooting,Mid-Level,4.0,High,1.24,68.47,1,Escalated
+IT-1127,Engineering,Asset Deployment,Junior,0.7,Low,1.25,62.28,13,Resolved
+IT-1128,Engineering,Software Troubleshooting,Senior,11.5,High,0.5,90.4,2,Resolved
+IT-1129,Engineering,Asset Deployment,Mid-Level,4.2,Medium,1.39,57.1,5,Resolved
+IT-1130,Engineering,Hardware Repair,Junior,0.5,High,3.0,32.94,1,Escalated
+IT-1131,Marketing,Network Issue,Junior,1.4,Medium,3.18,35.99,7,Escalated
+IT-1132,Finance,Network Issue,Junior,0.4,Medium,3.81,36.6,5,Escalated
+IT-1133,Engineering,Software Troubleshooting,Senior,11.8,Low,0.5,91.2,15,Resolved
+IT-1134,Marketing,Asset Deployment,Senior,9.4,Medium,0.81,78.49,5,Resolved
+IT-1135,Marketing,Asset Deployment,Junior,0.3,Low,1.59,57.35,8,Escalated
+IT-1136,Finance,Hardware Repair,Senior,7.5,Medium,1.59,64.93,7,Resolved
+IT-1137,HR,Asset Deployment,Junior,0.2,Low,1.33,55.07,8,Escalated
+IT-1138,Engineering,Asset Deployment,Senior,9.2,Low,0.67,72.63,8,Resolved
+IT-1139,HR,Cybersecurity,Junior,1.4,High,4.31,28.09,3,Resolved
+IT-1140,Finance,Network Issue,Mid-Level,5.0,Low,2.72,51.18,13,Escalated
+IT-1141,Finance,Network Issue,Junior,0.1,Low,3.43,44.56,14,Escalated
+IT-1142,HR,Hardware Repair,Mid-Level,5.2,Medium,1.93,56.05,4,Resolved
+IT-1143,Sales,Cybersecurity,Senior,8.2,Medium,1.75,72.56,6,Resolved
+IT-1144,HR,Software Troubleshooting,Junior,1.6,Low,2.3,44.54,13,Escalated
+IT-1145,HR,Cybersecurity,Junior,0.9,Low,4.48,25.25,13,Escalated
+IT-1146,HR,Network Issue,Mid-Level,5.3,Medium,2.33,43.11,4,Resolved
+IT-1147,HR,Network Issue,Junior,0.7,High,4.68,20.53,1,Resolved
+IT-1148,Finance,Cybersecurity,Junior,0.6,Medium,3.83,26.66,5,Escalated
+IT-1149,Marketing,Software Troubleshooting,Junior,0.2,Low,2.47,47.03,12,Escalated
+IT-1150,Marketing,Network Issue,Mid-Level,5.2,Low,2.54,52.51,10,Resolved
+IT-1151,HR,Software Troubleshooting,Junior,0.5,High,1.67,49.47,3,Escalated
+IT-1152,HR,Cybersecurity,Mid-Level,4.9,High,3.41,33.16,1,Escalated
+IT-1153,Engineering,Hardware Repair,Mid-Level,5.3,Low,1.52,67.51,15,Escalated
+IT-1154,Engineering,Asset Deployment,Mid-Level,3.1,High,0.5,65.27,1,Escalated
+IT-1155,Sales,Network Issue,Junior,1.7,Medium,3.82,40.05,5,Resolved
+IT-1156,Finance,Network Issue,Junior,0.0,Medium,3.88,31.71,7,Escalated
+IT-1157,Sales,Network Issue,Junior,0.2,Medium,3.94,36.88,6,Escalated
+IT-1158,Finance,Asset Deployment,Mid-Level,5.0,Medium,1.55,63.5,7,Resolved
+IT-1159,Engineering,Network Issue,Mid-Level,3.5,High,2.83,39.95,1,Escalated
+IT-1160,Sales,Asset Deployment,Junior,1.5,Medium,1.27,60.53,6,Resolved
+IT-1161,Marketing,Asset Deployment,Junior,1.1,High,0.98,65.36,1,Escalated
+IT-1162,Engineering,Hardware Repair,Senior,10.2,Medium,1.34,66.85,7,Resolved
+IT-1163,Marketing,Hardware Repair,Senior,7.1,Medium,2.17,58.95,5,Resolved
+IT-1164,Sales,Software Troubleshooting,Mid-Level,5.8,Medium,1.0,70.64,7,Escalated
+IT-1165,Marketing,Hardware Repair,Senior,9.4,Medium,0.83,86.92,7,Resolved
+IT-1166,Engineering,Asset Deployment,Mid-Level,5.5,High,1.52,60.16,3,Resolved
+IT-1167,Finance,Network Issue,Senior,12.0,High,0.5,73.51,3,Resolved
+IT-1168,Engineering,Cybersecurity,Mid-Level,5.5,High,2.8,52.02,3,Resolved
+IT-1169,Marketing,Network Issue,Senior,9.2,Medium,1.49,73.6,6,Resolved
+IT-1170,HR,Software Troubleshooting,Mid-Level,3.9,Medium,2.06,51.25,7,Resolved
+IT-1171,Marketing,Software Troubleshooting,Senior,8.8,Low,0.79,83.14,8,Resolved
+IT-1172,Sales,Network Issue,Mid-Level,3.5,High,3.88,20.75,1,Resolved
+IT-1173,Sales,Hardware Repair,Mid-Level,5.8,Medium,2.46,57.52,6,Resolved
+IT-1174,Engineering,Software Troubleshooting,Mid-Level,3.7,High,0.76,69.39,2,Resolved
+IT-1175,Sales,Asset Deployment,Senior,11.0,High,0.5,73.39,2,Resolved
+IT-1176,Engineering,Cybersecurity,Mid-Level,5.9,Medium,3.48,51.41,4,Escalated
+IT-1177,Marketing,Software Troubleshooting,Senior,10.7,Medium,0.5,83.07,5,Resolved
+IT-1178,Marketing,Software Troubleshooting,Senior,8.6,Medium,0.5,79.52,4,Resolved
+IT-1179,Finance,Network Issue,Senior,8.6,High,2.17,63.23,1,Resolved
+IT-1180,Sales,Network Issue,Junior,1.8,Medium,4.37,36.22,5,Escalated
+IT-1181,HR,Network Issue,Junior,1.4,Low,3.34,47.72,11,Escalated
+IT-1182,HR,Software Troubleshooting,Junior,1.2,High,1.79,59.8,2,Escalated
+IT-1183,Finance,Software Troubleshooting,Mid-Level,4.8,Medium,1.21,76.72,6,Resolved
+IT-1184,Sales,Hardware Repair,Mid-Level,3.5,Medium,2.61,55.38,5,Resolved
+IT-1185,Marketing,Asset Deployment,Junior,0.7,High,1.19,73.55,3,Resolved
+IT-1186,Marketing,Cybersecurity,Mid-Level,3.1,Medium,3.84,28.42,5,Escalated
+IT-1187,HR,Software Troubleshooting,Senior,10.1,Medium,1.09,79.77,4,Resolved
+IT-1188,Finance,Hardware Repair,Mid-Level,4.3,Low,2.09,67.26,13,Resolved
+IT-1189,HR,Software Troubleshooting,Senior,12.0,Medium,0.5,78.18,7,Escalated
+IT-1190,Sales,Cybersecurity,Junior,0.3,High,5.15,15.15,2,Resolved
+IT-1191,Sales,Software Troubleshooting,Junior,1.7,Low,0.95,64.03,15,Resolved
+IT-1192,Marketing,Software Troubleshooting,Mid-Level,5.0,Medium,1.47,60.07,6,Resolved
+IT-1193,Sales,Asset Deployment,Senior,9.9,High,0.5,88.73,3,Resolved
+IT-1194,Engineering,Cybersecurity,Senior,7.8,Medium,1.35,70.77,4,Resolved
+IT-1195,Sales,Cybersecurity,Senior,11.7,High,0.73,74.95,3,Resolved
+IT-1196,Marketing,Software Troubleshooting,Senior,9.4,Medium,0.94,78.42,5,Resolved
+IT-1197,Marketing,Cybersecurity,Mid-Level,3.1,High,3.35,41.46,3,Escalated
+IT-1198,HR,Network Issue,Senior,7.2,Low,2.15,64.91,14,Resolved
+IT-1199,Marketing,Software Troubleshooting,Mid-Level,4.0,High,0.93,66.9,2,Resolved
+IT-1200,Marketing,Hardware Repair,Senior,11.8,Medium,0.78,78.61,6,Resolved
+IT-1201,Engineering,Software Troubleshooting,Mid-Level,5.0,High,1.31,64.91,2,Escalated
+IT-1202,Engineering,Network Issue,Senior,9.9,High,1.91,71.43,2,Resolved
+IT-1203,Finance,Software Troubleshooting,Junior,0.2,Medium,2.48,44.27,6,Resolved
+IT-1204,HR,Cybersecurity,Senior,10.3,Medium,2.02,66.27,6,Escalated
+IT-1205,HR,Software Troubleshooting,Junior,0.2,Medium,1.89,51.51,6,Resolved
+IT-1206,Marketing,Cybersecurity,Mid-Level,4.2,High,2.82,44.46,2,Escalated
+IT-1207,Sales,Cybersecurity,Mid-Level,5.0,High,2.99,56.71,2,Escalated
+IT-1208,Finance,Software Troubleshooting,Mid-Level,5.7,High,1.28,59.51,3,Resolved
+IT-1209,Marketing,Asset Deployment,Senior,10.7,Low,0.52,92.26,15,Resolved
+IT-1210,Finance,Asset Deployment,Mid-Level,5.7,High,0.98,68.41,1,Resolved
+IT-1211,Marketing,Hardware Repair,Mid-Level,3.5,Medium,2.53,62.27,6,Resolved
+IT-1212,Engineering,Cybersecurity,Mid-Level,3.9,High,4.46,31.31,2,Resolved
+IT-1213,Sales,Asset Deployment,Senior,10.4,Medium,0.51,75.56,5,Resolved
+IT-1214,HR,Cybersecurity,Junior,1.9,High,5.07,17.02,1,Escalated
+IT-1215,Engineering,Cybersecurity,Mid-Level,4.8,High,3.42,40.58,1,Resolved
+IT-1216,Finance,Cybersecurity,Mid-Level,4.1,High,3.72,37.24,3,Resolved
+IT-1217,Marketing,Software Troubleshooting,Mid-Level,5.5,High,2.18,51.05,2,Resolved
+IT-1218,HR,Asset Deployment,Senior,7.8,High,1.04,73.63,1,Resolved
+IT-1219,Finance,Cybersecurity,Senior,8.2,High,2.55,49.67,1,Escalated
+IT-1220,Sales,Hardware Repair,Junior,2.0,Medium,2.81,41.37,4,Escalated
+IT-1221,Marketing,Software Troubleshooting,Mid-Level,3.0,Medium,2.12,51.2,5,Resolved
+IT-1222,HR,Hardware Repair,Mid-Level,3.2,High,2.07,47.49,1,Escalated
+IT-1223,Marketing,Network Issue,Junior,1.7,Medium,3.29,40.96,7,Escalated
+IT-1224,Marketing,Network Issue,Mid-Level,3.7,High,2.33,49.59,2,Escalated
+IT-1225,Marketing,Network Issue,Mid-Level,4.3,High,3.29,32.0,1,Escalated
+IT-1226,Engineering,Hardware Repair,Mid-Level,3.6,Medium,1.82,58.21,7,Escalated
+IT-1227,Finance,Asset Deployment,Junior,0.9,Low,0.95,61.54,11,Escalated
+IT-1228,Engineering,Software Troubleshooting,Senior,9.7,Medium,0.74,84.9,7,Escalated
+IT-1229,Finance,Hardware Repair,Junior,1.2,High,2.14,48.58,1,Escalated
+IT-1230,HR,Software Troubleshooting,Junior,0.8,Medium,1.28,54.94,7,Resolved
+IT-1231,Sales,Software Troubleshooting,Junior,1.2,Medium,2.26,49.56,7,Escalated
+IT-1232,HR,Cybersecurity,Senior,9.5,Medium,2.28,51.56,7,Escalated
+IT-1233,Finance,Asset Deployment,Junior,1.6,High,1.01,66.52,1,Resolved
+IT-1234,Marketing,Network Issue,Mid-Level,3.7,Low,3.06,51.36,12,Escalated
+IT-1235,HR,Asset Deployment,Senior,11.6,Medium,1.57,72.13,7,Escalated
+IT-1236,Finance,Software Troubleshooting,Mid-Level,5.5,Medium,0.87,72.22,6,Resolved
+IT-1237,Finance,Asset Deployment,Junior,1.6,Low,1.46,54.68,11,Escalated
+IT-1238,Engineering,Asset Deployment,Senior,7.0,Medium,0.82,72.31,6,Escalated
+IT-1239,Marketing,Cybersecurity,Senior,9.3,Low,1.97,66.08,10,Resolved
+IT-1240,HR,Hardware Repair,Senior,10.9,Medium,0.5,80.36,7,Escalated
+IT-1241,HR,Hardware Repair,Senior,11.1,Medium,0.5,88.06,6,Resolved
+IT-1242,Engineering,Asset Deployment,Junior,1.8,Medium,0.64,65.48,5,Escalated
+IT-1243,Sales,Hardware Repair,Mid-Level,5.3,Medium,1.93,58.66,5,Resolved
+IT-1244,Sales,Cybersecurity,Senior,10.4,High,1.76,62.01,2,Escalated
+IT-1245,Engineering,Hardware Repair,Senior,11.0,High,0.79,82.54,3,Escalated
+IT-1246,Engineering,Hardware Repair,Mid-Level,3.3,Medium,1.74,57.9,7,Resolved
+IT-1247,Marketing,Hardware Repair,Mid-Level,4.2,Low,2.9,49.85,8,Escalated
+IT-1248,Engineering,Cybersecurity,Senior,11.7,High,1.26,74.81,1,Resolved
+IT-1249,HR,Cybersecurity,Junior,0.8,Medium,3.98,30.15,7,Resolved
+IT-1250,Sales,Network Issue,Senior,10.7,High,2.15,64.87,1,Resolved
+IT-1251,Sales,Cybersecurity,Mid-Level,5.4,High,1.98,58.15,3,Escalated
+IT-1252,Marketing,Asset Deployment,Mid-Level,5.4,Medium,0.5,65.11,7,Resolved
+IT-1253,Engineering,Software Troubleshooting,Junior,0.0,Medium,2.5,41.22,6,Resolved
+IT-1254,Engineering,Cybersecurity,Junior,0.5,Low,4.73,27.68,14,Escalated
+IT-1255,Marketing,Asset Deployment,Senior,11.0,Medium,1.13,86.03,6,Resolved
+IT-1256,Marketing,Network Issue,Junior,1.9,Medium,3.2,34.76,4,Escalated
+IT-1257,Marketing,Network Issue,Junior,0.5,Low,3.76,35.61,9,Escalated
+IT-1258,Marketing,Software Troubleshooting,Mid-Level,5.6,Medium,1.67,58.57,7,Escalated
+IT-1259,Engineering,Network Issue,Mid-Level,5.0,Low,2.76,47.01,12,Escalated
+IT-1260,Sales,Network Issue,Senior,7.5,Low,1.7,68.57,14,Escalated
+IT-1261,Finance,Asset Deployment,Junior,1.5,Medium,2.5,52.88,5,Resolved
+IT-1262,Finance,Software Troubleshooting,Senior,7.5,Medium,1.5,68.53,5,Escalated
+IT-1263,Marketing,Cybersecurity,Senior,10.7,High,1.26,77.02,2,Resolved
+IT-1264,HR,Cybersecurity,Senior,10.7,Medium,1.65,77.27,4,Resolved
+IT-1265,Marketing,Cybersecurity,Junior,1.7,High,4.59,23.94,1,Escalated
+IT-1266,Finance,Network Issue,Junior,0.7,Low,3.59,34.75,11,Escalated
+IT-1267,Marketing,Software Troubleshooting,Mid-Level,4.9,High,1.01,70.42,2,Resolved
+IT-1268,Sales,Network Issue,Mid-Level,3.0,Medium,2.44,56.91,6,Resolved
+IT-1269,Sales,Asset Deployment,Mid-Level,4.9,Medium,1.07,64.03,7,Resolved
+IT-1270,Marketing,Asset Deployment,Mid-Level,4.8,Medium,0.52,74.73,5,Resolved
+IT-1271,Engineering,Cybersecurity,Mid-Level,5.5,High,2.01,58.9,1,Resolved
+IT-1272,Engineering,Network Issue,Junior,0.4,Low,4.65,31.97,8,Escalated
+IT-1273,Finance,Software Troubleshooting,Mid-Level,4.9,Medium,1.17,67.77,7,Escalated
+IT-1274,Finance,Asset Deployment,Senior,11.8,Low,0.5,78.28,10,Resolved
+IT-1275,HR,Software Troubleshooting,Junior,1.7,High,1.84,43.75,1,Escalated
+IT-1276,Marketing,Network Issue,Senior,8.1,Medium,1.49,57.48,5,Resolved
+IT-1277,Sales,Asset Deployment,Senior,7.7,Medium,0.83,72.64,7,Resolved
+IT-1278,Engineering,Hardware Repair,Junior,0.1,Medium,2.75,40.94,7,Resolved
+IT-1279,Engineering,Software Troubleshooting,Mid-Level,3.2,High,1.09,58.88,2,Resolved
+IT-1280,HR,Network Issue,Junior,1.5,High,4.35,23.29,1,Resolved
+IT-1281,Sales,Software Troubleshooting,Mid-Level,4.9,Medium,0.5,77.09,6,Escalated
+IT-1282,Finance,Hardware Repair,Senior,7.1,Medium,1.7,65.27,4,Escalated
+IT-1283,Engineering,Software Troubleshooting,Senior,10.9,Low,0.5,95.44,14,Resolved
+IT-1284,Marketing,Hardware Repair,Junior,1.1,Medium,3.01,41.56,4,Resolved
+IT-1285,Sales,Network Issue,Mid-Level,5.2,Medium,2.2,55.85,4,Resolved
+IT-1286,Marketing,Cybersecurity,Mid-Level,5.6,Medium,2.99,50.19,5,Resolved
+IT-1287,HR,Hardware Repair,Mid-Level,5.5,Medium,1.35,64.58,5,Resolved
+IT-1288,Marketing,Hardware Repair,Junior,0.8,High,3.15,46.97,2,Escalated
+IT-1289,Marketing,Cybersecurity,Junior,0.1,High,4.65,22.03,2,Escalated
+IT-1290,Sales,Hardware Repair,Junior,1.0,Low,2.96,43.76,12,Escalated
+IT-1291,HR,Asset Deployment,Mid-Level,6.0,Low,0.87,68.49,11,Escalated
+IT-1292,Finance,Software Troubleshooting,Junior,0.7,High,0.8,57.18,1,Resolved
+IT-1293,Sales,Cybersecurity,Senior,9.6,High,2.26,57.8,1,Resolved
+IT-1294,Sales,Asset Deployment,Junior,0.4,Medium,1.48,60.65,7,Resolved
+IT-1295,Sales,Cybersecurity,Mid-Level,5.6,Low,3.0,54.75,8,Resolved
+IT-1296,Marketing,Network Issue,Senior,8.8,Medium,2.04,67.11,5,Resolved
+IT-1297,Marketing,Network Issue,Senior,11.4,Low,0.97,87.33,14,Resolved
+IT-1298,Sales,Hardware Repair,Senior,10.6,High,1.07,72.03,1,Resolved
+IT-1299,Finance,Software Troubleshooting,Senior,8.9,High,1.06,72.0,1,Escalated
+IT-1300,HR,Network Issue,Senior,9.3,Low,1.47,61.07,15,Escalated
+IT-1301,Finance,Software Troubleshooting,Junior,1.7,High,1.65,52.85,1,Resolved
+IT-1302,HR,Asset Deployment,Junior,1.2,Medium,2.35,40.39,5,Resolved
+IT-1303,HR,Hardware Repair,Mid-Level,3.1,Medium,2.14,55.25,6,Escalated
+IT-1304,Marketing,Asset Deployment,Mid-Level,3.7,Medium,0.88,71.25,4,Resolved
+IT-1305,Engineering,Hardware Repair,Junior,0.4,Low,3.18,42.94,10,Resolved
+IT-1306,Engineering,Network Issue,Senior,11.5,High,1.36,75.94,3,Resolved
+IT-1307,Marketing,Hardware Repair,Senior,9.3,Medium,1.21,78.9,6,Resolved
+IT-1308,HR,Network Issue,Senior,7.1,Low,1.9,64.4,8,Resolved
+IT-1309,Sales,Software Troubleshooting,Mid-Level,5.7,High,1.61,64.87,3,Resolved
+IT-1310,Finance,Asset Deployment,Junior,1.3,Medium,2.47,50.13,4,Resolved
+IT-1311,HR,Network Issue,Junior,0.5,High,3.91,24.92,2,Resolved
+IT-1312,Finance,Hardware Repair,Junior,0.6,Low,3.36,49.31,14,Escalated
+IT-1313,Engineering,Asset Deployment,Senior,11.2,High,0.5,74.71,2,Resolved
+IT-1314,Sales,Network Issue,Mid-Level,3.2,High,3.32,44.63,1,Resolved
+IT-1315,Finance,Cybersecurity,Senior,11.3,High,0.67,80.91,1,Escalated
+IT-1316,Engineering,Cybersecurity,Mid-Level,4.3,Medium,3.86,44.56,7,Escalated
+IT-1317,Sales,Asset Deployment,Mid-Level,3.8,Low,1.02,58.4,13,Escalated
+IT-1318,Marketing,Hardware Repair,Senior,7.0,Low,1.65,64.47,9,Escalated
+IT-1319,Finance,Cybersecurity,Senior,8.7,Medium,1.4,70.08,7,Resolved
+IT-1320,Engineering,Asset Deployment,Mid-Level,4.6,High,1.19,66.02,3,Resolved
+IT-1321,Finance,Hardware Repair,Junior,1.0,Medium,2.99,40.86,4,Escalated
+IT-1322,Sales,Asset Deployment,Junior,1.1,High,1.49,60.41,3,Resolved
+IT-1323,Engineering,Asset Deployment,Junior,1.9,Medium,1.13,56.25,4,Resolved
+IT-1324,HR,Cybersecurity,Senior,8.5,High,1.93,63.67,3,Escalated
+IT-1325,Marketing,Network Issue,Junior,0.5,Medium,4.4,29.8,6,Escalated
+IT-1326,Sales,Cybersecurity,Senior,10.8,Medium,1.66,70.56,5,Escalated
+IT-1327,Marketing,Hardware Repair,Mid-Level,4.8,High,1.47,61.86,3,Escalated
+IT-1328,Engineering,Cybersecurity,Mid-Level,3.4,High,3.29,40.02,2,Escalated
+IT-1329,Engineering,Hardware Repair,Junior,0.2,Low,3.36,39.11,8,Escalated
+IT-1330,Engineering,Cybersecurity,Senior,10.3,High,1.8,71.59,3,Resolved
+IT-1331,Marketing,Network Issue,Senior,11.3,Medium,0.5,86.16,7,Escalated
+IT-1332,Marketing,Asset Deployment,Junior,0.9,Medium,1.81,44.66,5,Escalated
+IT-1333,Marketing,Hardware Repair,Mid-Level,4.6,Medium,1.45,63.39,7,Resolved
+IT-1334,Engineering,Network Issue,Junior,0.3,Medium,3.94,30.29,6,Escalated
+IT-1335,Marketing,Asset Deployment,Junior,1.2,Medium,1.99,52.66,4,Resolved
+IT-1336,Sales,Cybersecurity,Mid-Level,3.4,High,3.63,35.66,3,Resolved
+IT-1337,Finance,Software Troubleshooting,Senior,8.0,Medium,0.86,78.42,6,Resolved
+IT-1338,Engineering,Asset Deployment,Mid-Level,3.9,Low,1.06,68.1,8,Escalated
+IT-1339,Marketing,Hardware Repair,Junior,0.6,Medium,2.83,44.94,7,Resolved
+IT-1340,Engineering,Asset Deployment,Junior,1.1,Low,2.18,53.47,9,Escalated
+IT-1341,Engineering,Cybersecurity,Senior,10.5,Medium,1.52,65.69,7,Resolved
+IT-1342,Marketing,Hardware Repair,Junior,0.7,Medium,2.32,49.16,5,Resolved
+IT-1343,Sales,Software Troubleshooting,Senior,10.9,Medium,0.5,88.47,6,Escalated
+IT-1344,HR,Network Issue,Senior,7.7,Low,2.17,67.11,10,Escalated
+IT-1345,Finance,Asset Deployment,Mid-Level,5.2,High,1.52,62.44,3,Resolved
+IT-1346,Finance,Software Troubleshooting,Junior,1.4,Low,1.55,58.2,9,Escalated
+IT-1347,Marketing,Hardware Repair,Senior,9.4,Medium,1.25,78.4,6,Resolved
+IT-1348,HR,Cybersecurity,Senior,9.2,High,2.3,60.97,1,Escalated
+IT-1349,Engineering,Asset Deployment,Senior,9.0,Medium,0.86,79.63,6,Escalated
+IT-1350,Engineering,Cybersecurity,Mid-Level,3.2,High,3.42,33.74,3,Escalated
+IT-1351,Marketing,Software Troubleshooting,Mid-Level,4.9,Medium,2.33,53.66,5,Resolved
+IT-1352,Sales,Software Troubleshooting,Mid-Level,4.9,Medium,1.08,72.44,4,Resolved
+IT-1353,HR,Asset Deployment,Senior,12.0,High,0.78,83.99,3,Resolved
+IT-1354,HR,Hardware Repair,Mid-Level,4.9,Medium,2.11,57.79,7,Resolved
+IT-1355,Marketing,Network Issue,Senior,7.4,High,1.21,60.86,3,Resolved
+IT-1356,Engineering,Hardware Repair,Mid-Level,4.7,Low,1.7,64.21,9,Resolved
+IT-1357,Engineering,Asset Deployment,Senior,9.0,High,0.5,75.68,3,Resolved
+IT-1358,Marketing,Software Troubleshooting,Mid-Level,5.7,High,1.11,57.27,1,Resolved
+IT-1359,Sales,Cybersecurity,Mid-Level,3.6,High,4.54,23.67,3,Escalated
+IT-1360,Engineering,Asset Deployment,Senior,9.9,Medium,0.5,82.45,5,Resolved
+IT-1361,Marketing,Cybersecurity,Mid-Level,3.9,High,3.96,24.25,3,Resolved
+IT-1362,HR,Software Troubleshooting,Senior,9.5,Medium,0.5,78.79,4,Resolved
+IT-1363,Marketing,Software Troubleshooting,Mid-Level,3.3,Medium,1.84,54.02,5,Resolved
+IT-1364,Finance,Network Issue,Senior,11.2,High,0.58,87.91,1,Resolved
+IT-1365,Marketing,Cybersecurity,Mid-Level,5.6,Low,3.56,48.05,13,Escalated
+IT-1366,HR,Cybersecurity,Junior,1.9,High,4.5,20.75,1,Escalated
+IT-1367,HR,Asset Deployment,Senior,10.4,Low,0.5,79.79,15,Escalated
+IT-1368,Engineering,Hardware Repair,Mid-Level,5.9,High,1.29,70.94,3,Escalated
+IT-1369,Finance,Asset Deployment,Mid-Level,3.3,Low,0.5,70.85,15,Resolved
+IT-1370,Finance,Software Troubleshooting,Mid-Level,4.1,Medium,1.2,64.09,4,Resolved
+IT-1371,HR,Hardware Repair,Mid-Level,5.2,Medium,2.43,52.74,4,Resolved
+IT-1372,Engineering,Network Issue,Senior,10.0,Medium,0.96,74.98,6,Escalated
+IT-1373,Marketing,Hardware Repair,Mid-Level,3.2,Medium,2.19,63.26,7,Resolved
+IT-1374,Sales,Cybersecurity,Mid-Level,3.2,High,3.95,26.87,1,Resolved
+IT-1375,Marketing,Asset Deployment,Junior,1.8,Low,1.57,62.94,10,Resolved
+IT-1376,Sales,Hardware Repair,Junior,1.1,Medium,2.74,44.51,7,Escalated
+IT-1377,Engineering,Software Troubleshooting,Senior,8.6,Medium,1.21,75.82,7,Resolved
+IT-1378,Finance,Cybersecurity,Junior,0.2,High,4.17,17.7,3,Resolved
+IT-1379,Finance,Cybersecurity,Junior,1.5,High,3.42,36.16,3,Escalated
+IT-1380,Engineering,Hardware Repair,Junior,1.8,Low,2.9,56.62,15,Resolved
+IT-1381,Engineering,Hardware Repair,Mid-Level,4.2,High,1.96,54.54,2,Resolved
+IT-1382,Engineering,Network Issue,Mid-Level,3.2,Low,3.57,52.07,15,Escalated
+IT-1383,HR,Software Troubleshooting,Senior,9.7,High,0.5,77.58,2,Escalated
+IT-1384,Marketing,Asset Deployment,Senior,8.6,High,1.09,72.65,3,Resolved
+IT-1385,HR,Software Troubleshooting,Junior,1.8,Low,1.63,49.15,9,Escalated
+IT-1386,Finance,Asset Deployment,Mid-Level,5.8,High,0.5,74.09,1,Resolved
+IT-1387,Sales,Software Troubleshooting,Mid-Level,3.7,High,2.52,48.48,2,Escalated
+IT-1388,Sales,Software Troubleshooting,Junior,1.1,Medium,1.77,47.56,4,Resolved
+IT-1389,Marketing,Network Issue,Mid-Level,3.1,High,3.4,39.62,2,Escalated
+IT-1390,Engineering,Hardware Repair,Mid-Level,4.5,Medium,2.37,53.24,4,Escalated
+IT-1391,Engineering,Asset Deployment,Junior,0.4,Medium,1.05,66.75,4,Escalated
+IT-1392,Finance,Cybersecurity,Mid-Level,5.3,Medium,3.19,40.72,5,Escalated
+IT-1393,Sales,Network Issue,Senior,10.9,Low,1.25,82.19,15,Resolved
+IT-1394,Marketing,Network Issue,Mid-Level,5.4,Low,2.59,49.07,10,Resolved
+IT-1395,Engineering,Software Troubleshooting,Mid-Level,4.4,High,1.02,67.81,3,Escalated
+IT-1396,Marketing,Hardware Repair,Junior,0.1,Medium,2.66,50.17,5,Resolved
+IT-1397,Marketing,Asset Deployment,Mid-Level,4.3,Low,1.46,56.83,12,Resolved
+IT-1398,Sales,Network Issue,Senior,10.3,Low,0.9,76.08,10,Resolved
+IT-1399,Engineering,Hardware Repair,Senior,7.2,Low,1.36,73.19,10,Resolved
+IT-1400,Marketing,Network Issue,Junior,0.9,High,4.22,22.71,3,Escalated
+IT-1401,Sales,Hardware Repair,Senior,11.5,Medium,1.41,73.04,5,Resolved
+IT-1402,Marketing,Network Issue,Junior,0.5,High,4.24,16.07,2,Resolved
+IT-1403,Sales,Network Issue,Junior,1.9,Low,2.19,54.45,11,Resolved
+IT-1404,HR,Asset Deployment,Mid-Level,5.3,Low,0.5,76.45,15,Resolved
+IT-1405,HR,Hardware Repair,Senior,11.7,Medium,1.14,67.06,4,Resolved
+IT-1406,Finance,Network Issue,Mid-Level,3.2,High,2.6,41.3,3,Resolved
+IT-1407,Finance,Asset Deployment,Mid-Level,3.9,Medium,1.52,67.99,6,Resolved
+IT-1408,HR,Hardware Repair,Mid-Level,4.0,High,2.63,50.63,2,Escalated
+IT-1409,Engineering,Cybersecurity,Junior,0.8,High,5.09,11.59,1,Escalated
+IT-1410,HR,Software Troubleshooting,Senior,10.8,Medium,0.5,83.67,4,Resolved
+IT-1411,Engineering,Asset Deployment,Senior,8.5,High,1.14,75.64,1,Resolved
+IT-1412,Engineering,Software Troubleshooting,Mid-Level,5.9,High,0.61,72.22,3,Escalated
+IT-1413,Marketing,Network Issue,Senior,10.5,High,1.53,72.78,3,Resolved
+IT-1414,Engineering,Hardware Repair,Mid-Level,3.6,High,1.81,58.36,1,Resolved
+IT-1415,Finance,Software Troubleshooting,Junior,1.9,High,0.55,66.74,2,Escalated
+IT-1416,Marketing,Asset Deployment,Mid-Level,3.4,Low,1.4,69.31,15,Escalated
+IT-1417,Finance,Cybersecurity,Junior,1.6,High,4.72,21.0,1,Escalated
+IT-1418,Engineering,Asset Deployment,Junior,0.2,Medium,1.57,55.78,5,Escalated
+IT-1419,Marketing,Network Issue,Senior,9.5,Low,1.36,71.24,14,Escalated
+IT-1420,Engineering,Asset Deployment,Mid-Level,3.0,Medium,1.02,65.52,4,Resolved
+IT-1421,Engineering,Hardware Repair,Senior,9.1,Low,1.12,78.6,15,Escalated
+IT-1422,HR,Cybersecurity,Junior,0.6,High,5.71,4.9,2,Escalated
+IT-1423,Sales,Asset Deployment,Mid-Level,5.9,High,1.26,70.25,3,Escalated
+IT-1424,Sales,Software Troubleshooting,Senior,7.5,Medium,0.52,72.51,7,Resolved
+IT-1425,Finance,Cybersecurity,Senior,11.9,Low,1.09,75.33,9,Escalated
+IT-1426,Engineering,Cybersecurity,Junior,0.8,High,4.18,17.05,2,Escalated
+IT-1427,HR,Hardware Repair,Junior,1.3,High,3.68,34.13,3,Resolved
+IT-1428,Engineering,Cybersecurity,Junior,1.9,High,4.09,26.82,3,Resolved
+IT-1429,Finance,Software Troubleshooting,Senior,7.1,Medium,1.65,70.4,6,Resolved
+IT-1430,HR,Cybersecurity,Mid-Level,3.0,High,5.08,14.23,3,Resolved
+IT-1431,Engineering,Asset Deployment,Mid-Level,4.8,Medium,1.54,68.45,4,Escalated
+IT-1432,Sales,Software Troubleshooting,Mid-Level,4.6,Medium,1.77,67.26,7,Resolved
+IT-1433,Finance,Cybersecurity,Senior,7.0,Medium,2.23,58.66,4,Escalated
+IT-1434,Marketing,Network Issue,Junior,1.6,Low,2.16,56.14,8,Resolved
+IT-1435,Engineering,Software Troubleshooting,Mid-Level,5.1,Low,1.61,58.37,11,Resolved
+IT-1436,Marketing,Software Troubleshooting,Mid-Level,3.7,High,1.16,59.05,3,Escalated
+IT-1437,Finance,Network Issue,Senior,10.0,Low,1.04,78.5,13,Resolved
+IT-1438,Engineering,Hardware Repair,Mid-Level,4.5,Medium,2.56,48.44,4,Escalated
+IT-1439,Engineering,Software Troubleshooting,Junior,1.0,Low,1.77,52.64,8,Resolved
+IT-1440,Marketing,Hardware Repair,Senior,11.3,Medium,1.24,75.25,5,Resolved
+IT-1441,HR,Asset Deployment,Junior,1.3,Medium,1.1,65.46,4,Resolved
+IT-1442,Finance,Network Issue,Junior,0.8,High,3.55,32.13,1,Escalated
+IT-1443,HR,Asset Deployment,Junior,1.3,High,1.02,58.48,1,Escalated
+IT-1444,Finance,Asset Deployment,Junior,1.5,Medium,1.75,57.73,4,Escalated
+IT-1445,Sales,Software Troubleshooting,Junior,0.9,Medium,1.07,62.57,7,Escalated
+IT-1446,Engineering,Software Troubleshooting,Senior,8.5,Medium,0.5,72.35,7,Resolved
+IT-1447,Finance,Network Issue,Junior,1.8,Medium,3.67,25.52,4,Escalated
+IT-1448,HR,Asset Deployment,Mid-Level,5.2,High,2.01,50.9,1,Escalated
+IT-1449,HR,Hardware Repair,Senior,8.9,Medium,0.5,77.75,5,Escalated
+IT-1450,Finance,Software Troubleshooting,Junior,1.0,Medium,1.73,56.49,7,Resolved
+IT-1451,Engineering,Software Troubleshooting,Senior,10.0,High,0.5,78.34,3,Resolved
+IT-1452,Engineering,Hardware Repair,Junior,0.9,Medium,3.76,35.85,4,Escalated
+IT-1453,Engineering,Hardware Repair,Junior,1.1,Low,2.6,48.72,15,Escalated
+IT-1454,Marketing,Asset Deployment,Junior,0.9,High,1.42,57.87,2,Resolved
+IT-1455,Finance,Cybersecurity,Mid-Level,4.5,Medium,3.35,43.75,6,Escalated
+IT-1456,Engineering,Asset Deployment,Senior,11.4,Low,0.72,77.82,8,Resolved
+IT-1457,Finance,Cybersecurity,Senior,11.2,High,1.45,74.41,3,Resolved
+IT-1458,HR,Asset Deployment,Junior,1.0,Medium,1.22,65.54,4,Resolved
+IT-1459,Sales,Network Issue,Mid-Level,5.4,High,2.54,51.35,2,Resolved
+IT-1460,Finance,Hardware Repair,Mid-Level,5.2,Low,2.04,66.21,12,Escalated
+IT-1461,Marketing,Cybersecurity,Senior,9.2,High,1.39,66.6,3,Resolved
+IT-1462,Finance,Cybersecurity,Senior,8.8,Low,2.0,64.69,9,Resolved
+IT-1463,Marketing,Hardware Repair,Junior,1.0,High,2.93,47.0,1,Escalated
+IT-1464,Engineering,Asset Deployment,Junior,1.5,High,1.39,64.26,1,Escalated
+IT-1465,Finance,Software Troubleshooting,Mid-Level,4.2,Medium,0.82,75.34,4,Escalated
+IT-1466,Sales,Asset Deployment,Senior,10.0,Medium,0.89,79.32,5,Resolved
+IT-1467,Engineering,Cybersecurity,Senior,9.1,High,1.56,75.53,1,Resolved
+IT-1468,Sales,Network Issue,Mid-Level,4.3,High,2.86,50.22,1,Resolved
+IT-1469,Sales,Asset Deployment,Mid-Level,4.3,Medium,1.35,63.36,5,Resolved
+IT-1470,Finance,Hardware Repair,Senior,11.7,High,0.5,89.53,1,Resolved
+IT-1471,Sales,Software Troubleshooting,Mid-Level,4.8,Low,1.78,55.82,13,Escalated
+IT-1472,Marketing,Software Troubleshooting,Mid-Level,5.3,High,0.97,70.44,1,Resolved
+IT-1473,Engineering,Cybersecurity,Mid-Level,5.6,High,3.31,35.1,2,Escalated
+IT-1474,Marketing,Hardware Repair,Mid-Level,3.6,Medium,3.14,45.12,5,Escalated
+IT-1475,Marketing,Network Issue,Senior,8.2,High,1.46,68.23,3,Escalated
+IT-1476,Engineering,Network Issue,Junior,1.3,Medium,3.65,34.71,4,Escalated
+IT-1477,Marketing,Hardware Repair,Junior,1.8,High,2.49,51.11,1,Resolved
+IT-1478,Finance,Hardware Repair,Mid-Level,5.3,High,2.61,53.27,3,Resolved
+IT-1479,Finance,Network Issue,Junior,1.9,Medium,2.62,39.33,4,Escalated
+IT-1480,Sales,Hardware Repair,Senior,10.4,Medium,1.04,71.57,7,Escalated
+IT-1481,Sales,Asset Deployment,Mid-Level,4.0,Low,0.5,72.87,13,Escalated
+IT-1482,Finance,Cybersecurity,Mid-Level,5.1,High,3.0,46.12,2,Escalated
+IT-1483,Marketing,Hardware Repair,Mid-Level,3.3,High,2.44,51.92,3,Resolved
+IT-1484,Sales,Network Issue,Mid-Level,3.8,Medium,3.19,39.32,7,Resolved
+IT-1485,Finance,Asset Deployment,Senior,9.9,High,0.83,77.04,2,Resolved
+IT-1486,HR,Software Troubleshooting,Senior,10.5,Low,0.81,82.53,15,Escalated
+IT-1487,Marketing,Software Troubleshooting,Junior,1.8,Medium,2.35,51.0,5,Resolved
+IT-1488,Engineering,Asset Deployment,Mid-Level,4.1,Medium,0.69,69.19,7,Resolved
+IT-1489,Finance,Network Issue,Senior,8.1,High,2.15,55.83,3,Resolved
+IT-1490,HR,Cybersecurity,Senior,8.1,Medium,2.73,64.24,6,Resolved
+IT-1491,Sales,Asset Deployment,Senior,8.7,Low,0.8,78.84,10,Escalated
+IT-1492,Sales,Hardware Repair,Senior,9.1,High,1.13,66.38,2,Resolved
+IT-1493,Engineering,Hardware Repair,Junior,1.1,Medium,2.57,43.71,5,Resolved
+IT-1494,Engineering,Network Issue,Mid-Level,3.8,High,3.67,30.27,1,Escalated
+IT-1495,Engineering,Hardware Repair,Junior,1.6,Low,2.44,49.31,13,Escalated
+IT-1496,HR,Asset Deployment,Senior,7.7,High,0.82,87.28,3,Resolved
+IT-1497,Marketing,Hardware Repair,Junior,1.8,Medium,2.8,44.81,5,Escalated
+IT-1498,Finance,Hardware Repair,Senior,9.3,Medium,1.41,79.61,6,Resolved
+IT-1499,Sales,Software Troubleshooting,Mid-Level,4.6,High,1.25,68.14,2,Resolved
+IT-1500,Marketing,Cybersecurity,Mid-Level,4.7,High,3.98,40.51,2,Escalated
+IT-1501,HR,Network Issue,Mid-Level,4.2,Low,3.34,47.1,13,Escalated
+IT-1502,Engineering,Asset Deployment,Senior,9.9,High,1.62,67.88,3,Escalated
+IT-1503,Finance,Hardware Repair,Junior,0.6,Medium,3.0,39.9,5,Resolved
+IT-1504,HR,Asset Deployment,Junior,1.9,High,1.34,60.65,2,Escalated
+IT-1505,Finance,Network Issue,Mid-Level,5.7,Medium,3.1,44.12,5,Escalated
+IT-1506,Marketing,Cybersecurity,Senior,8.1,High,2.5,54.46,2,Resolved
+IT-1507,Marketing,Cybersecurity,Mid-Level,4.8,High,3.33,38.71,1,Resolved
+IT-1508,HR,Asset Deployment,Junior,0.6,Low,1.51,60.28,12,Resolved
+IT-1509,Engineering,Cybersecurity,Junior,0.9,High,4.4,25.39,2,Escalated
+IT-1510,Engineering,Asset Deployment,Mid-Level,5.8,Medium,1.65,58.81,4,Resolved
+IT-1511,Sales,Network Issue,Junior,0.7,Low,5.02,27.09,14,Resolved
+IT-1512,HR,Cybersecurity,Senior,10.1,Low,1.99,66.65,11,Resolved
+IT-1513,Finance,Hardware Repair,Junior,0.9,Medium,2.54,47.75,5,Escalated
+IT-1514,Engineering,Software Troubleshooting,Junior,1.6,High,2.5,42.09,1,Escalated
+IT-1515,Engineering,Network Issue,Mid-Level,5.6,Medium,1.79,56.15,5,Escalated
+IT-1516,Finance,Hardware Repair,Mid-Level,3.7,Low,2.16,56.41,10,Resolved
+IT-1517,Marketing,Software Troubleshooting,Junior,1.2,High,1.29,60.54,2,Escalated
+IT-1518,Marketing,Asset Deployment,Senior,10.7,Low,0.5,78.43,8,Escalated
+IT-1519,HR,Asset Deployment,Senior,10.1,Medium,0.5,80.69,5,Escalated
+IT-1520,Engineering,Hardware Repair,Mid-Level,4.6,High,1.39,61.29,3,Resolved
+IT-1521,Finance,Cybersecurity,Junior,0.3,High,4.87,19.35,2,Resolved
+IT-1522,Marketing,Hardware Repair,Mid-Level,5.7,High,1.2,70.57,1,Escalated
+IT-1523,Sales,Cybersecurity,Senior,10.9,High,1.92,66.48,3,Escalated
+IT-1524,Marketing,Cybersecurity,Mid-Level,5.7,Medium,2.96,52.87,5,Escalated
+IT-1525,Finance,Cybersecurity,Junior,1.9,Medium,4.88,25.82,5,Escalated
+IT-1526,Engineering,Software Troubleshooting,Senior,8.4,Medium,0.5,78.66,4,Resolved
+IT-1527,Marketing,Network Issue,Junior,0.8,High,3.58,31.3,3,Escalated
+IT-1528,Marketing,Hardware Repair,Junior,1.6,Low,3.63,44.05,8,Escalated
+IT-1529,Marketing,Asset Deployment,Mid-Level,3.2,High,1.59,54.27,1,Resolved
+IT-1530,Sales,Hardware Repair,Mid-Level,5.9,High,2.58,54.46,2,Resolved
+IT-1531,Engineering,Network Issue,Junior,1.7,Medium,3.89,37.89,5,Escalated
+IT-1532,Engineering,Software Troubleshooting,Junior,0.5,Medium,1.9,54.09,6,Resolved
+IT-1533,Sales,Hardware Repair,Senior,9.6,Medium,0.54,81.71,4,Escalated
+IT-1534,Sales,Software Troubleshooting,Mid-Level,4.4,Low,0.77,63.42,9,Resolved
+IT-1535,Engineering,Software Troubleshooting,Junior,1.7,Medium,2.12,50.44,6,Escalated
+IT-1536,Finance,Software Troubleshooting,Mid-Level,5.5,Medium,0.87,59.29,7,Resolved
+IT-1537,HR,Software Troubleshooting,Senior,7.4,Low,1.93,57.81,13,Resolved
+IT-1538,HR,Hardware Repair,Junior,1.3,Medium,2.77,46.7,6,Resolved
+IT-1539,Marketing,Cybersecurity,Senior,9.6,High,2.32,67.21,3,Escalated
+IT-1540,Sales,Cybersecurity,Senior,11.1,High,0.52,89.68,1,Resolved
+IT-1541,Sales,Asset Deployment,Mid-Level,4.6,High,0.5,73.67,2,Resolved
+IT-1542,Engineering,Software Troubleshooting,Mid-Level,5.5,High,1.22,63.1,1,Resolved
+IT-1543,Finance,Cybersecurity,Mid-Level,4.0,High,4.11,28.97,3,Escalated
+IT-1544,Engineering,Network Issue,Senior,8.4,High,1.62,63.18,1,Escalated
+IT-1545,Finance,Network Issue,Senior,11.1,Medium,1.16,75.66,4,Resolved
+IT-1546,Finance,Network Issue,Mid-Level,5.3,High,1.16,66.18,2,Resolved
+IT-1547,Marketing,Hardware Repair,Junior,1.1,High,2.67,42.04,3,Escalated
+IT-1548,Engineering,Network Issue,Junior,0.6,Low,3.48,36.36,13,Resolved
+IT-1549,Finance,Asset Deployment,Senior,8.9,Medium,0.5,90.75,7,Resolved
+IT-1550,Sales,Cybersecurity,Mid-Level,5.1,High,3.52,34.02,3,Escalated
+IT-1551,Sales,Asset Deployment,Senior,10.9,Medium,0.5,77.89,5,Resolved
+IT-1552,Finance,Cybersecurity,Senior,9.0,High,2.52,65.56,3,Escalated
+IT-1553,HR,Network Issue,Senior,11.7,High,0.5,79.53,2,Resolved
+IT-1554,Marketing,Asset Deployment,Junior,0.1,Medium,1.53,52.27,6,Escalated
+IT-1555,Finance,Cybersecurity,Junior,1.6,Medium,3.92,29.41,7,Resolved
+IT-1556,Engineering,Hardware Repair,Senior,7.3,Medium,2.75,61.17,6,Resolved
+IT-1557,HR,Hardware Repair,Junior,0.1,Low,3.59,36.51,15,Resolved
+IT-1558,Marketing,Cybersecurity,Senior,7.4,High,2.6,51.21,3,Escalated
+IT-1559,Sales,Asset Deployment,Junior,0.1,Medium,0.5,63.29,5,Resolved
+IT-1560,Engineering,Network Issue,Mid-Level,4.7,High,3.05,47.85,1,Escalated
+IT-1561,Marketing,Cybersecurity,Mid-Level,4.2,High,3.41,40.28,1,Escalated
+IT-1562,Sales,Hardware Repair,Senior,8.2,High,0.73,70.17,3,Resolved
+IT-1563,Engineering,Hardware Repair,Mid-Level,5.0,Low,2.26,62.86,11,Resolved
+IT-1564,Finance,Asset Deployment,Senior,9.7,High,0.65,64.25,2,Resolved
+IT-1565,Marketing,Network Issue,Mid-Level,4.7,Medium,2.54,55.99,6,Resolved
+IT-1566,Sales,Software Troubleshooting,Mid-Level,4.9,Medium,1.35,75.19,4,Resolved
+IT-1567,Finance,Asset Deployment,Senior,11.1,High,1.12,77.66,2,Resolved
+IT-1568,HR,Network Issue,Mid-Level,4.5,Medium,3.08,41.16,5,Escalated
+IT-1569,Marketing,Software Troubleshooting,Senior,7.5,Medium,1.45,70.26,6,Escalated
+IT-1570,Finance,Network Issue,Senior,10.8,High,0.62,79.46,2,Resolved
+IT-1571,Marketing,Network Issue,Junior,1.3,High,3.25,39.97,1,Escalated
+IT-1572,Sales,Hardware Repair,Senior,7.2,Medium,1.14,76.85,7,Resolved
+IT-1573,Marketing,Asset Deployment,Mid-Level,3.1,Low,1.79,61.45,9,Resolved
+IT-1574,Finance,Network Issue,Mid-Level,4.6,Medium,2.5,48.32,5,Escalated
+IT-1575,HR,Software Troubleshooting,Mid-Level,4.8,Low,1.72,51.99,15,Escalated
+IT-1576,Marketing,Software Troubleshooting,Junior,0.3,Low,2.4,52.41,8,Escalated
+IT-1577,HR,Software Troubleshooting,Junior,1.2,Medium,1.07,63.84,4,Resolved
+IT-1578,Engineering,Hardware Repair,Senior,7.6,Medium,1.2,70.31,4,Resolved
+IT-1579,Sales,Asset Deployment,Junior,0.7,Medium,1.05,62.1,5,Escalated
+IT-1580,Engineering,Asset Deployment,Junior,0.0,High,1.79,40.79,2,Escalated
+IT-1581,Sales,Cybersecurity,Junior,1.9,High,4.67,35.63,1,Escalated
+IT-1582,HR,Software Troubleshooting,Senior,11.9,Medium,0.5,78.1,7,Escalated
+IT-1583,Sales,Software Troubleshooting,Senior,11.9,High,0.5,83.41,2,Resolved
+IT-1584,Marketing,Hardware Repair,Mid-Level,4.4,Low,2.06,48.76,10,Escalated
+IT-1585,Engineering,Software Troubleshooting,Mid-Level,5.2,Medium,0.91,71.29,6,Resolved
+IT-1586,Sales,Network Issue,Senior,12.0,Medium,0.86,80.54,5,Resolved
+IT-1587,Marketing,Software Troubleshooting,Senior,10.1,High,0.5,83.42,2,Resolved
+IT-1588,HR,Network Issue,Mid-Level,3.9,Medium,3.42,38.53,6,Escalated
+IT-1589,HR,Network Issue,Senior,7.3,Low,2.02,63.17,10,Resolved
+IT-1590,Sales,Cybersecurity,Mid-Level,3.8,Medium,4.19,26.7,7,Escalated
+IT-1591,Engineering,Cybersecurity,Senior,7.4,High,3.04,52.64,3,Resolved
+IT-1592,Sales,Cybersecurity,Junior,0.6,Medium,4.29,34.25,7,Escalated
+IT-1593,HR,Asset Deployment,Junior,0.6,Medium,1.85,41.97,7,Escalated
+IT-1594,Engineering,Hardware Repair,Senior,8.9,Medium,1.13,71.06,6,Resolved
+IT-1595,Marketing,Network Issue,Senior,7.5,Low,1.93,70.43,10,Resolved
+IT-1596,Finance,Asset Deployment,Junior,0.9,Low,1.15,62.04,13,Resolved
+IT-1597,Engineering,Hardware Repair,Junior,0.4,Medium,2.64,40.44,5,Escalated
+IT-1598,Engineering,Cybersecurity,Senior,7.6,Medium,1.91,61.77,5,Resolved
+IT-1599,HR,Cybersecurity,Junior,0.1,High,4.58,18.48,3,Escalated
+IT-1600,HR,Cybersecurity,Mid-Level,5.0,High,2.79,49.08,1,Resolved
+IT-1601,Finance,Cybersecurity,Junior,0.9,Low,4.32,33.48,14,Escalated
+IT-1602,Marketing,Asset Deployment,Mid-Level,3.6,Low,1.65,57.89,12,Resolved
+IT-1603,HR,Cybersecurity,Junior,1.4,Medium,4.04,23.84,6,Escalated
+IT-1604,Engineering,Software Troubleshooting,Junior,2.0,Medium,1.93,51.59,4,Resolved
+IT-1605,Engineering,Hardware Repair,Senior,11.1,Medium,0.5,81.48,4,Resolved
+IT-1606,Engineering,Software Troubleshooting,Junior,1.2,High,1.72,57.12,1,Resolved
+IT-1607,Finance,Network Issue,Mid-Level,4.3,Medium,2.53,47.78,5,Escalated
+IT-1608,HR,Cybersecurity,Mid-Level,4.4,High,3.38,39.98,3,Escalated
+IT-1609,Sales,Hardware Repair,Junior,0.4,High,3.47,42.17,1,Escalated
+IT-1610,Finance,Network Issue,Junior,1.0,High,4.08,21.08,1,Resolved
+IT-1611,HR,Asset Deployment,Senior,10.7,Medium,0.71,73.49,4,Resolved
+IT-1612,Sales,Asset Deployment,Mid-Level,4.1,Medium,0.99,67.88,6,Resolved
+IT-1613,Finance,Network Issue,Junior,1.0,Low,3.48,38.73,9,Resolved
+IT-1614,Engineering,Hardware Repair,Junior,1.1,Low,2.57,49.36,15,Escalated
+IT-1615,HR,Cybersecurity,Senior,11.7,High,1.49,78.69,3,Resolved
+IT-1616,Sales,Cybersecurity,Junior,1.9,High,4.2,21.91,2,Resolved
+IT-1617,Finance,Cybersecurity,Senior,7.3,High,3.14,43.98,1,Escalated
+IT-1618,Sales,Hardware Repair,Senior,7.2,Low,1.59,70.14,12,Resolved
+IT-1619,Sales,Asset Deployment,Junior,0.2,Medium,1.73,50.36,4,Resolved
+IT-1620,HR,Network Issue,Mid-Level,5.3,Medium,3.59,37.98,6,Resolved
+IT-1621,Finance,Asset Deployment,Mid-Level,5.6,Medium,0.69,75.41,6,Resolved
+IT-1622,HR,Asset Deployment,Mid-Level,3.1,High,1.46,56.5,3,Resolved
+IT-1623,HR,Hardware Repair,Senior,7.3,Medium,1.69,69.19,4,Resolved
+IT-1624,Engineering,Hardware Repair,Senior,12.0,Medium,0.8,77.86,7,Escalated
+IT-1625,Sales,Asset Deployment,Senior,9.9,Medium,0.5,80.58,6,Resolved
+IT-1626,Sales,Hardware Repair,Mid-Level,4.5,Medium,1.18,60.44,6,Resolved
+IT-1627,Marketing,Hardware Repair,Senior,8.0,High,0.87,70.19,3,Resolved
+IT-1628,Marketing,Network Issue,Mid-Level,5.3,Medium,1.78,63.2,4,Resolved
+IT-1629,Finance,Network Issue,Junior,1.0,Medium,3.65,29.85,4,Escalated
+IT-1630,Engineering,Software Troubleshooting,Senior,9.6,Medium,0.5,80.84,6,Resolved
+IT-1631,Finance,Asset Deployment,Senior,7.6,High,0.5,77.73,1,Resolved
+IT-1632,Engineering,Software Troubleshooting,Junior,0.5,Medium,1.26,62.49,6,Escalated
+IT-1633,Engineering,Asset Deployment,Mid-Level,4.8,Medium,0.87,75.86,4,Resolved
+IT-1634,HR,Cybersecurity,Senior,7.8,High,2.66,50.9,1,Resolved
+IT-1635,Marketing,Software Troubleshooting,Junior,0.9,High,1.52,55.78,2,Escalated
+IT-1636,Finance,Cybersecurity,Junior,1.2,Medium,3.81,41.3,4,Escalated
+IT-1637,Engineering,Software Troubleshooting,Junior,0.0,Medium,3.15,31.1,4,Resolved
+IT-1638,HR,Hardware Repair,Mid-Level,5.2,Medium,1.76,59.49,5,Escalated
+IT-1639,Engineering,Asset Deployment,Mid-Level,3.8,Low,0.88,66.58,12,Resolved
+IT-1640,Sales,Cybersecurity,Mid-Level,5.3,High,2.84,53.0,3,Escalated
+IT-1641,Finance,Software Troubleshooting,Mid-Level,3.3,Low,0.79,61.42,14,Escalated
+IT-1642,Engineering,Hardware Repair,Senior,9.0,Medium,1.39,66.99,7,Escalated
+IT-1643,Engineering,Network Issue,Junior,0.7,Medium,3.63,32.61,6,Escalated
+IT-1644,Engineering,Cybersecurity,Mid-Level,3.8,Low,4.03,36.89,11,Escalated
+IT-1645,Marketing,Cybersecurity,Mid-Level,5.5,High,2.41,46.87,3,Escalated
+IT-1646,HR,Cybersecurity,Senior,7.4,High,2.35,69.0,1,Escalated
+IT-1647,Marketing,Network Issue,Senior,10.8,Low,1.34,71.81,8,Resolved
+IT-1648,Engineering,Hardware Repair,Senior,10.3,Medium,0.56,77.62,6,Resolved
+IT-1649,Marketing,Hardware Repair,Mid-Level,4.3,High,2.26,49.47,3,Escalated
+IT-1650,Sales,Software Troubleshooting,Senior,8.6,Medium,1.37,74.99,6,Resolved
+IT-1651,Engineering,Network Issue,Junior,0.1,Low,3.87,44.37,10,Escalated
+IT-1652,Finance,Network Issue,Senior,9.7,Medium,1.71,64.81,4,Escalated
+IT-1653,Engineering,Network Issue,Mid-Level,5.9,Medium,2.04,47.45,6,Escalated
+IT-1654,Sales,Cybersecurity,Junior,1.5,Medium,4.39,23.96,6,Escalated
+IT-1655,Marketing,Network Issue,Mid-Level,5.6,Medium,2.89,45.24,4,Escalated
+IT-1656,Finance,Network Issue,Senior,9.0,Medium,1.81,67.1,4,Resolved
+IT-1657,Marketing,Network Issue,Senior,9.2,Medium,1.55,75.07,5,Resolved
+IT-1658,Finance,Hardware Repair,Senior,9.4,Medium,1.66,68.36,4,Escalated
+IT-1659,Marketing,Network Issue,Senior,11.5,High,1.15,80.91,2,Escalated
+IT-1660,HR,Hardware Repair,Junior,1.3,Low,2.32,56.78,15,Resolved
+IT-1661,Sales,Cybersecurity,Junior,0.1,High,4.78,10.85,1,Escalated
+IT-1662,HR,Hardware Repair,Junior,0.6,Medium,3.16,42.91,5,Escalated
+IT-1663,Engineering,Network Issue,Mid-Level,4.3,Medium,2.87,43.26,6,Escalated
+IT-1664,Sales,Hardware Repair,Senior,8.2,High,1.5,68.01,2,Resolved
+IT-1665,HR,Cybersecurity,Mid-Level,3.1,High,4.59,22.44,1,Escalated
+IT-1666,Engineering,Cybersecurity,Junior,1.8,High,4.75,26.36,2,Escalated
+IT-1667,Sales,Software Troubleshooting,Senior,9.4,Low,0.87,69.71,12,Escalated
+IT-1668,Engineering,Cybersecurity,Mid-Level,4.0,High,4.0,29.9,3,Escalated
+IT-1669,Engineering,Software Troubleshooting,Junior,0.5,High,2.05,41.65,3,Escalated
+IT-1670,Finance,Software Troubleshooting,Mid-Level,5.9,Medium,1.52,68.61,6,Resolved
+IT-1671,Sales,Cybersecurity,Senior,8.5,High,1.65,60.16,2,Escalated
+IT-1672,Finance,Network Issue,Mid-Level,3.9,Medium,2.91,40.95,4,Resolved
+IT-1673,Marketing,Software Troubleshooting,Senior,9.6,High,0.64,80.02,3,Escalated
+IT-1674,Engineering,Cybersecurity,Junior,1.5,Medium,5.57,10.48,4,Escalated
+IT-1675,Finance,Software Troubleshooting,Junior,1.6,High,2.18,55.19,1,Escalated
+IT-1676,Marketing,Software Troubleshooting,Senior,8.1,Low,0.58,74.16,11,Resolved
+IT-1677,Marketing,Hardware Repair,Senior,9.0,Low,1.0,77.35,13,Resolved
+IT-1678,Engineering,Network Issue,Senior,10.8,Medium,1.84,76.52,6,Escalated
+IT-1679,Finance,Asset Deployment,Senior,10.1,Medium,0.5,76.29,5,Escalated
+IT-1680,Engineering,Network Issue,Junior,1.4,Medium,2.84,45.51,6,Resolved
+IT-1681,HR,Network Issue,Senior,10.2,Medium,2.08,70.34,7,Resolved
+IT-1682,HR,Hardware Repair,Junior,0.9,Medium,1.67,52.21,6,Resolved
+IT-1683,HR,Software Troubleshooting,Mid-Level,3.1,High,1.03,69.57,1,Resolved
+IT-1684,Finance,Network Issue,Senior,8.0,Medium,1.15,72.94,4,Resolved
+IT-1685,Sales,Network Issue,Mid-Level,3.7,High,2.74,51.37,2,Resolved
+IT-1686,Sales,Software Troubleshooting,Senior,10.7,Medium,1.08,77.64,4,Escalated
+IT-1687,Finance,Hardware Repair,Mid-Level,3.9,Low,1.57,64.52,11,Escalated
+IT-1688,Marketing,Cybersecurity,Senior,10.7,High,1.91,68.04,3,Resolved
+IT-1689,Marketing,Cybersecurity,Senior,11.4,Medium,1.19,72.73,7,Resolved
+IT-1690,Finance,Software Troubleshooting,Mid-Level,4.5,Medium,1.75,58.74,7,Resolved
+IT-1691,Finance,Cybersecurity,Mid-Level,5.2,Low,3.52,49.24,14,Escalated
+IT-1692,Sales,Network Issue,Junior,1.1,High,3.52,32.91,2,Escalated
+IT-1693,Sales,Asset Deployment,Junior,1.2,High,2.43,43.99,2,Resolved
+IT-1694,HR,Cybersecurity,Senior,10.7,Low,0.68,81.25,10,Resolved
+IT-1695,Finance,Hardware Repair,Senior,11.0,Medium,1.93,72.44,4,Resolved
+IT-1696,HR,Network Issue,Junior,0.1,Medium,3.96,30.05,5,Escalated
+IT-1697,HR,Network Issue,Senior,7.8,Medium,2.26,68.04,7,Resolved
+IT-1698,HR,Network Issue,Senior,8.5,Medium,1.75,70.33,5,Escalated
+IT-1699,Engineering,Hardware Repair,Mid-Level,4.8,Medium,1.53,59.81,5,Escalated
+IT-1700,HR,Asset Deployment,Mid-Level,3.3,High,1.44,61.8,3,Escalated
+IT-1701,HR,Network Issue,Senior,9.7,High,0.83,79.64,1,Escalated
+IT-1702,Sales,Hardware Repair,Senior,10.5,Medium,0.97,79.0,5,Escalated
+IT-1703,HR,Asset Deployment,Senior,9.6,Medium,0.5,82.82,4,Resolved
+IT-1704,HR,Software Troubleshooting,Senior,7.9,Low,1.46,75.09,10,Escalated
+IT-1705,Sales,Asset Deployment,Mid-Level,5.3,Medium,0.5,75.73,4,Resolved
+IT-1706,Sales,Hardware Repair,Junior,0.8,Medium,2.5,44.25,7,Resolved
+IT-1707,Finance,Hardware Repair,Senior,7.4,Medium,2.48,53.66,5,Resolved
+IT-1708,Sales,Network Issue,Senior,7.3,High,1.93,65.24,2,Resolved
+IT-1709,HR,Asset Deployment,Mid-Level,4.4,High,1.36,61.21,1,Resolved
+IT-1710,Sales,Hardware Repair,Mid-Level,4.0,High,1.61,65.24,1,Resolved
+IT-1711,Sales,Network Issue,Senior,9.1,High,1.33,73.7,2,Resolved
+IT-1712,Engineering,Cybersecurity,Junior,2.0,High,5.06,16.84,2,Escalated
+IT-1713,Marketing,Network Issue,Mid-Level,4.6,Medium,2.66,46.85,5,Escalated
+IT-1714,Finance,Hardware Repair,Junior,0.7,Medium,2.52,44.38,6,Escalated
+IT-1715,Marketing,Cybersecurity,Mid-Level,5.6,High,3.49,54.69,1,Resolved
+IT-1716,Marketing,Software Troubleshooting,Mid-Level,4.4,High,2.22,52.35,1,Resolved
+IT-1717,Sales,Software Troubleshooting,Mid-Level,3.3,High,1.65,51.0,2,Resolved
+IT-1718,Engineering,Network Issue,Mid-Level,5.6,High,2.86,61.95,3,Resolved
+IT-1719,HR,Network Issue,Senior,11.3,Medium,1.52,72.02,7,Escalated
+IT-1720,Sales,Hardware Repair,Mid-Level,4.2,Low,2.32,60.32,12,Resolved
+IT-1721,HR,Cybersecurity,Junior,1.7,High,5.46,11.34,3,Resolved
+IT-1722,Engineering,Cybersecurity,Junior,1.5,Medium,3.73,34.48,6,Escalated
+IT-1723,HR,Hardware Repair,Junior,0.5,High,3.48,31.59,3,Escalated
+IT-1724,Engineering,Cybersecurity,Senior,9.1,High,1.78,65.84,2,Escalated
+IT-1725,Marketing,Software Troubleshooting,Junior,0.2,Medium,2.4,46.73,4,Escalated
+IT-1726,Engineering,Asset Deployment,Senior,10.8,Medium,0.5,85.09,5,Resolved
+IT-1727,Engineering,Software Troubleshooting,Junior,0.4,Low,2.28,51.15,14,Escalated
+IT-1728,Marketing,Asset Deployment,Mid-Level,3.2,Medium,0.5,66.44,5,Escalated
+IT-1729,Marketing,Network Issue,Mid-Level,5.9,Medium,3.03,47.07,4,Escalated
+IT-1730,Finance,Hardware Repair,Mid-Level,4.6,Medium,1.44,67.64,4,Resolved
+IT-1731,Sales,Cybersecurity,Junior,1.5,High,4.38,14.87,2,Escalated
+IT-1732,HR,Asset Deployment,Mid-Level,5.6,High,1.84,63.08,2,Resolved
+IT-1733,Finance,Hardware Repair,Mid-Level,5.1,High,2.05,42.85,3,Escalated
+IT-1734,Marketing,Asset Deployment,Senior,10.8,Low,0.5,73.69,9,Resolved
+IT-1735,Marketing,Network Issue,Senior,11.0,Medium,1.0,83.86,7,Resolved
+IT-1736,Finance,Hardware Repair,Mid-Level,3.2,High,2.33,55.34,3,Escalated
+IT-1737,HR,Network Issue,Senior,11.4,High,0.69,79.17,3,Resolved
+IT-1738,Engineering,Cybersecurity,Mid-Level,3.9,High,4.27,29.04,2,Escalated
+IT-1739,Finance,Cybersecurity,Junior,1.4,High,5.1,14.02,2,Resolved
+IT-1740,Sales,Asset Deployment,Junior,0.9,Medium,1.02,54.91,7,Escalated
+IT-1741,Engineering,Asset Deployment,Mid-Level,3.8,Medium,1.07,60.09,6,Resolved
+IT-1742,Finance,Cybersecurity,Senior,9.8,High,1.86,61.41,3,Resolved
+IT-1743,Marketing,Asset Deployment,Mid-Level,4.2,Low,1.63,54.5,11,Resolved
+IT-1744,Sales,Asset Deployment,Junior,0.6,High,0.62,67.2,1,Resolved
+IT-1745,HR,Hardware Repair,Mid-Level,4.7,High,2.31,38.15,1,Escalated
+IT-1746,Engineering,Network Issue,Senior,10.6,Medium,0.5,79.42,4,Escalated
+IT-1747,Engineering,Software Troubleshooting,Junior,1.9,High,1.77,56.49,3,Resolved
+IT-1748,Sales,Asset Deployment,Mid-Level,5.2,Low,1.19,66.32,14,Resolved
+IT-1749,Sales,Hardware Repair,Junior,0.3,High,4.2,24.1,3,Resolved
+IT-1750,Finance,Software Troubleshooting,Senior,7.5,Low,0.58,79.21,14,Resolved
+IT-1751,Engineering,Cybersecurity,Senior,8.7,High,2.82,51.74,1,Escalated
+IT-1752,Marketing,Software Troubleshooting,Senior,8.7,Medium,0.5,82.46,6,Resolved
+IT-1753,Sales,Software Troubleshooting,Mid-Level,4.9,Low,0.5,76.62,9,Resolved
+IT-1754,Sales,Network Issue,Junior,1.7,Low,3.39,34.4,11,Resolved
+IT-1755,Marketing,Asset Deployment,Senior,9.3,High,1.07,72.3,3,Resolved
+IT-1756,Engineering,Asset Deployment,Mid-Level,4.5,Medium,1.49,65.08,6,Resolved
+IT-1757,Sales,Asset Deployment,Senior,8.4,Medium,0.59,75.48,6,Escalated
+IT-1758,Marketing,Asset Deployment,Mid-Level,5.1,Medium,1.75,61.38,4,Resolved
+IT-1759,Marketing,Hardware Repair,Mid-Level,3.0,Medium,2.22,58.0,5,Resolved
+IT-1760,Engineering,Hardware Repair,Mid-Level,5.2,High,2.21,52.21,2,Resolved
+IT-1761,Sales,Network Issue,Senior,11.7,High,0.5,85.76,1,Resolved
+IT-1762,Finance,Asset Deployment,Mid-Level,4.6,High,0.85,64.91,2,Escalated
+IT-1763,Engineering,Asset Deployment,Senior,7.0,Low,0.5,77.31,10,Resolved
+IT-1764,HR,Hardware Repair,Senior,8.5,High,0.86,81.51,1,Escalated
+IT-1765,Marketing,Software Troubleshooting,Senior,11.2,Medium,1.2,71.44,4,Escalated
+IT-1766,Sales,Cybersecurity,Junior,1.6,Medium,4.16,28.45,6,Escalated
+IT-1767,HR,Hardware Repair,Senior,8.5,Medium,2.15,60.66,4,Resolved
+IT-1768,Finance,Software Troubleshooting,Junior,1.1,Medium,0.65,74.33,7,Resolved
+IT-1769,Marketing,Network Issue,Mid-Level,4.4,Low,3.26,38.97,11,Escalated
+IT-1770,HR,Cybersecurity,Senior,7.3,High,2.54,46.32,1,Escalated
+IT-1771,HR,Cybersecurity,Senior,7.3,High,3.54,33.54,1,Escalated
+IT-1772,Sales,Cybersecurity,Senior,7.5,Medium,2.82,57.21,6,Resolved
+IT-1773,Finance,Software Troubleshooting,Senior,9.5,Low,0.5,85.74,9,Resolved
+IT-1774,HR,Asset Deployment,Mid-Level,3.2,Medium,0.5,67.6,6,Escalated
+IT-1775,Marketing,Asset Deployment,Mid-Level,3.7,Medium,1.23,59.4,5,Resolved
+IT-1776,Engineering,Software Troubleshooting,Mid-Level,3.3,Low,2.0,59.31,13,Resolved
+IT-1777,Sales,Network Issue,Senior,7.2,High,1.78,60.4,2,Escalated
+IT-1778,Engineering,Network Issue,Senior,11.8,Medium,1.08,63.64,5,Resolved
+IT-1779,Marketing,Software Troubleshooting,Junior,0.9,Medium,2.61,44.49,4,Escalated
+IT-1780,Engineering,Asset Deployment,Mid-Level,5.2,Medium,1.22,71.83,6,Resolved
+IT-1781,HR,Network Issue,Mid-Level,5.3,High,2.85,54.96,2,Escalated
+IT-1782,HR,Cybersecurity,Mid-Level,4.4,High,3.48,35.88,1,Resolved
+IT-1783,Marketing,Network Issue,Senior,9.0,Low,1.5,74.18,12,Resolved
+IT-1784,Engineering,Network Issue,Junior,1.4,High,4.25,30.31,1,Escalated
+IT-1785,Sales,Asset Deployment,Mid-Level,3.1,Low,1.69,61.28,12,Escalated
+IT-1786,Marketing,Network Issue,Junior,1.5,High,4.99,17.81,1,Resolved
+IT-1787,Engineering,Hardware Repair,Mid-Level,4.7,Medium,1.95,64.23,6,Escalated
+IT-1788,Finance,Network Issue,Mid-Level,4.7,High,2.5,47.85,2,Escalated
+IT-1789,Engineering,Cybersecurity,Junior,0.2,High,4.44,21.82,1,Escalated
+IT-1790,HR,Asset Deployment,Mid-Level,4.8,Medium,1.39,71.09,4,Escalated
+IT-1791,Sales,Network Issue,Junior,1.4,Medium,4.12,25.65,4,Escalated
+IT-1792,Finance,Asset Deployment,Senior,10.1,Medium,0.65,86.75,5,Resolved
+IT-1793,Sales,Software Troubleshooting,Junior,1.6,Low,1.77,67.04,8,Resolved
+IT-1794,Finance,Asset Deployment,Junior,0.1,High,1.82,53.6,1,Resolved
+IT-1795,HR,Hardware Repair,Junior,0.3,Low,2.94,52.15,10,Resolved
+IT-1796,Marketing,Network Issue,Senior,7.8,Medium,2.35,67.89,7,Escalated
+IT-1797,Marketing,Hardware Repair,Senior,7.8,High,1.36,74.3,1,Resolved
+IT-1798,HR,Hardware Repair,Senior,10.3,Low,0.92,81.33,11,Resolved
+IT-1799,HR,Cybersecurity,Senior,8.5,Medium,2.08,58.8,5,Resolved
+IT-1800,Marketing,Cybersecurity,Senior,8.0,High,3.01,43.92,1,Resolved
+IT-1801,HR,Network Issue,Mid-Level,3.1,High,3.38,24.12,3,Resolved
+IT-1802,Engineering,Hardware Repair,Junior,1.4,High,3.09,35.16,3,Escalated
+IT-1803,Sales,Software Troubleshooting,Senior,9.2,High,0.5,79.55,1,Escalated
+IT-1804,Finance,Software Troubleshooting,Mid-Level,5.8,Medium,1.29,66.19,7,Escalated
+IT-1805,HR,Hardware Repair,Mid-Level,3.8,Medium,1.57,55.18,4,Resolved
+IT-1806,Marketing,Software Troubleshooting,Senior,7.7,Medium,0.7,79.11,5,Resolved
+IT-1807,Engineering,Hardware Repair,Junior,0.1,High,3.39,33.67,1,Resolved
+IT-1808,Engineering,Asset Deployment,Senior,9.1,High,0.5,83.45,2,Resolved
+IT-1809,Finance,Network Issue,Mid-Level,5.9,High,2.13,54.91,3,Resolved
+IT-1810,Marketing,Asset Deployment,Senior,7.5,Medium,0.5,68.44,4,Escalated
+IT-1811,Marketing,Software Troubleshooting,Senior,11.1,High,0.5,82.14,3,Escalated
+IT-1812,Marketing,Network Issue,Junior,1.0,Medium,3.64,41.23,6,Escalated
+IT-1813,Finance,Network Issue,Junior,1.0,High,3.85,24.23,3,Escalated
+IT-1814,Marketing,Network Issue,Senior,9.2,Low,1.76,76.04,9,Resolved
+IT-1815,HR,Hardware Repair,Senior,11.6,High,0.87,74.57,2,Resolved
+IT-1816,Engineering,Network Issue,Senior,8.7,Low,1.89,61.88,10,Escalated
+IT-1817,HR,Software Troubleshooting,Senior,11.3,High,1.21,72.96,3,Resolved
+IT-1818,Marketing,Cybersecurity,Senior,9.2,Medium,1.22,73.73,4,Escalated
+IT-1819,Engineering,Hardware Repair,Mid-Level,3.8,High,2.22,52.75,1,Resolved
+IT-1820,Finance,Software Troubleshooting,Junior,1.2,High,2.59,46.59,3,Escalated
+IT-1821,Marketing,Network Issue,Junior,0.4,Low,3.16,48.8,8,Resolved
+IT-1822,Finance,Network Issue,Mid-Level,3.9,High,3.36,46.87,2,Escalated
+IT-1823,HR,Cybersecurity,Mid-Level,4.0,Medium,3.69,42.88,6,Escalated
+IT-1824,Engineering,Network Issue,Senior,7.7,High,1.91,65.63,3,Resolved
+IT-1825,Sales,Hardware Repair,Mid-Level,4.2,Medium,2.26,56.4,6,Resolved
+IT-1826,Engineering,Software Troubleshooting,Junior,1.7,Medium,2.44,41.28,6,Resolved
+IT-1827,Finance,Cybersecurity,Mid-Level,4.9,Medium,3.78,35.55,7,Escalated
+IT-1828,HR,Cybersecurity,Senior,7.5,High,2.28,57.46,3,Escalated
+IT-1829,Sales,Network Issue,Senior,11.0,High,1.27,79.45,3,Resolved
+IT-1830,Finance,Network Issue,Mid-Level,5.6,Medium,2.47,55.85,5,Escalated
+IT-1831,Sales,Software Troubleshooting,Junior,0.8,Low,2.05,48.46,12,Escalated
+IT-1832,HR,Cybersecurity,Junior,0.8,Medium,4.67,27.57,4,Escalated
+IT-1833,Marketing,Asset Deployment,Mid-Level,4.0,High,1.4,58.53,2,Escalated
+IT-1834,Marketing,Asset Deployment,Mid-Level,3.9,Medium,1.17,58.91,5,Escalated
+IT-1835,Sales,Software Troubleshooting,Junior,1.1,Medium,1.0,61.93,6,Resolved
+IT-1836,Sales,Hardware Repair,Senior,11.1,Medium,0.79,79.08,4,Resolved
+IT-1837,Marketing,Asset Deployment,Senior,7.6,Medium,0.5,80.98,4,Resolved
+IT-1838,Engineering,Hardware Repair,Senior,11.4,Low,0.5,86.29,9,Resolved
+IT-1839,Finance,Hardware Repair,Senior,8.3,Low,1.6,71.91,15,Escalated
+IT-1840,Sales,Software Troubleshooting,Senior,11.3,Low,1.52,76.42,9,Escalated
+IT-1841,Sales,Software Troubleshooting,Junior,0.2,Low,1.86,51.56,9,Resolved
+IT-1842,Engineering,Asset Deployment,Mid-Level,4.8,High,0.72,71.52,1,Escalated
+IT-1843,Finance,Software Troubleshooting,Senior,8.9,High,0.54,78.4,3,Escalated
+IT-1844,Sales,Cybersecurity,Junior,1.5,Medium,4.51,22.53,6,Escalated
+IT-1845,Sales,Cybersecurity,Junior,0.7,Medium,6.01,15.37,5,Escalated
+IT-1846,Marketing,Software Troubleshooting,Senior,7.3,Low,2.1,69.86,10,Resolved
+IT-1847,Marketing,Cybersecurity,Senior,11.0,High,0.5,81.98,2,Resolved
+IT-1848,Finance,Asset Deployment,Mid-Level,5.3,High,0.87,62.98,3,Resolved
+IT-1849,Engineering,Hardware Repair,Mid-Level,4.7,Low,1.68,52.49,8,Resolved
+IT-1850,Engineering,Hardware Repair,Senior,8.4,Medium,1.15,73.41,6,Escalated
+IT-1851,HR,Asset Deployment,Junior,0.7,Medium,0.74,65.27,4,Escalated
+IT-1852,Finance,Cybersecurity,Mid-Level,5.0,High,3.56,36.91,3,Resolved
+IT-1853,Finance,Asset Deployment,Junior,0.4,High,1.04,59.16,1,Escalated
+IT-1854,Finance,Cybersecurity,Junior,0.6,High,4.79,22.63,2,Resolved
+IT-1855,Engineering,Cybersecurity,Junior,0.2,High,5.23,15.9,3,Escalated
+IT-1856,HR,Cybersecurity,Mid-Level,5.0,High,3.48,38.93,2,Escalated
+IT-1857,Marketing,Cybersecurity,Mid-Level,5.1,Low,2.27,69.84,12,Escalated
+IT-1858,Marketing,Hardware Repair,Senior,7.5,Low,1.46,67.5,11,Resolved
+IT-1859,Sales,Software Troubleshooting,Senior,7.3,Low,0.69,78.03,12,Escalated
+IT-1860,Engineering,Hardware Repair,Junior,0.1,Medium,2.27,46.27,5,Resolved
+IT-1861,Sales,Cybersecurity,Senior,10.1,High,3.17,58.76,1,Escalated
+IT-1862,HR,Software Troubleshooting,Junior,1.0,Medium,1.37,57.96,4,Escalated
+IT-1863,Finance,Network Issue,Mid-Level,3.9,Medium,3.46,48.77,6,Escalated
+IT-1864,Sales,Cybersecurity,Senior,7.7,High,2.49,57.93,1,Resolved
+IT-1865,Marketing,Software Troubleshooting,Junior,0.2,High,1.47,45.73,2,Escalated
+IT-1866,Marketing,Network Issue,Junior,0.5,Medium,3.94,22.73,4,Escalated
+IT-1867,Engineering,Software Troubleshooting,Senior,10.5,High,0.5,76.23,2,Escalated
+IT-1868,Finance,Hardware Repair,Senior,7.4,Medium,1.54,55.81,6,Resolved
+IT-1869,Marketing,Asset Deployment,Junior,0.8,Medium,1.63,60.04,6,Resolved
+IT-1870,HR,Software Troubleshooting,Junior,0.4,Medium,2.31,43.16,5,Resolved
+IT-1871,Finance,Asset Deployment,Junior,1.6,Medium,1.12,62.66,6,Resolved
+IT-1872,Marketing,Asset Deployment,Senior,7.6,Low,0.52,77.47,13,Resolved
+IT-1873,Finance,Software Troubleshooting,Senior,7.6,Low,0.89,75.6,9,Resolved
+IT-1874,Finance,Cybersecurity,Mid-Level,5.6,Low,3.49,46.49,14,Resolved
+IT-1875,HR,Asset Deployment,Junior,1.1,High,2.26,52.17,1,Resolved
+IT-1876,Finance,Software Troubleshooting,Senior,11.1,Medium,1.28,77.53,5,Resolved
+IT-1877,Engineering,Software Troubleshooting,Senior,7.5,Medium,0.57,77.16,6,Escalated
+IT-1878,Sales,Network Issue,Senior,8.6,Medium,1.38,69.35,5,Escalated
+IT-1879,Sales,Network Issue,Junior,0.0,Medium,3.47,37.37,6,Escalated
+IT-1880,Engineering,Software Troubleshooting,Senior,9.6,Medium,0.5,86.7,7,Resolved
+IT-1881,Sales,Software Troubleshooting,Mid-Level,5.8,Medium,1.51,72.75,5,Escalated
+IT-1882,Engineering,Network Issue,Junior,0.7,Medium,3.75,29.83,4,Escalated
+IT-1883,Sales,Asset Deployment,Senior,9.3,Medium,0.73,87.11,5,Resolved
+IT-1884,HR,Cybersecurity,Senior,9.1,Medium,2.14,64.91,4,Resolved
+IT-1885,Marketing,Hardware Repair,Mid-Level,5.5,High,1.53,61.63,3,Resolved
+IT-1886,Marketing,Asset Deployment,Mid-Level,6.0,Medium,1.11,66.26,7,Resolved
+IT-1887,Marketing,Cybersecurity,Junior,1.9,High,4.13,28.68,1,Escalated
+IT-1888,Engineering,Cybersecurity,Junior,0.5,High,5.09,20.78,1,Escalated
+IT-1889,Sales,Cybersecurity,Junior,0.7,Low,5.13,27.69,12,Resolved
+IT-1890,HR,Network Issue,Senior,10.5,Medium,1.6,72.97,5,Resolved
+IT-1891,HR,Cybersecurity,Junior,1.7,Medium,5.38,14.39,5,Escalated
+IT-1892,Sales,Cybersecurity,Mid-Level,3.8,High,2.7,46.52,2,Escalated
+IT-1893,Sales,Asset Deployment,Junior,1.6,Medium,1.59,57.23,5,Resolved
+IT-1894,Marketing,Software Troubleshooting,Mid-Level,5.2,High,1.0,64.62,3,Resolved
+IT-1895,HR,Network Issue,Senior,8.9,Medium,1.7,68.97,7,Resolved
+IT-1896,Finance,Cybersecurity,Mid-Level,4.0,Medium,3.22,45.44,7,Escalated
+IT-1897,Finance,Asset Deployment,Senior,10.6,Medium,1.21,75.99,6,Escalated
+IT-1898,HR,Hardware Repair,Mid-Level,5.6,High,2.4,57.95,3,Resolved
+IT-1899,Marketing,Asset Deployment,Senior,12.0,High,0.5,94.31,2,Resolved
+IT-1900,Finance,Hardware Repair,Junior,0.1,High,4.25,23.31,1,Resolved
+IT-1901,Sales,Asset Deployment,Junior,0.7,Low,1.87,48.73,11,Escalated
+IT-1902,Marketing,Software Troubleshooting,Mid-Level,5.6,Low,0.6,69.99,15,Escalated
+IT-1903,Engineering,Hardware Repair,Junior,1.3,High,2.76,45.83,2,Escalated
+IT-1904,HR,Hardware Repair,Senior,10.1,Low,0.5,73.69,15,Escalated
+IT-1905,Marketing,Software Troubleshooting,Senior,7.8,Medium,0.82,74.09,4,Escalated
+IT-1906,Sales,Software Troubleshooting,Mid-Level,3.4,High,1.42,59.7,1,Resolved
+IT-1907,HR,Asset Deployment,Mid-Level,6.0,Medium,0.5,79.74,6,Resolved
+IT-1908,Engineering,Cybersecurity,Mid-Level,3.2,Medium,4.19,35.56,4,Escalated
+IT-1909,Sales,Network Issue,Mid-Level,5.2,Medium,2.71,44.31,4,Escalated
+IT-1910,Engineering,Network Issue,Senior,10.4,Medium,1.35,76.07,5,Escalated
+IT-1911,Marketing,Cybersecurity,Junior,1.1,Medium,5.03,15.65,5,Escalated
+IT-1912,Marketing,Network Issue,Junior,1.9,Medium,2.53,51.35,4,Resolved
+IT-1913,Engineering,Network Issue,Mid-Level,4.5,Medium,2.71,44.75,4,Resolved
+IT-1914,Finance,Asset Deployment,Junior,0.5,Medium,1.76,51.45,4,Resolved
+IT-1915,HR,Hardware Repair,Mid-Level,3.5,Medium,2.98,41.04,6,Escalated
+IT-1916,Sales,Asset Deployment,Senior,9.7,Medium,0.5,80.26,7,Escalated
+IT-1917,Marketing,Network Issue,Junior,0.5,Low,4.39,21.55,14,Escalated
+IT-1918,HR,Network Issue,Junior,1.0,Medium,2.77,40.22,5,Escalated
+IT-1919,Marketing,Asset Deployment,Junior,0.9,Low,0.96,55.25,15,Escalated
+IT-1920,Marketing,Asset Deployment,Senior,7.1,Medium,0.94,73.45,4,Resolved
+IT-1921,Engineering,Network Issue,Mid-Level,5.4,High,2.05,56.76,2,Escalated
+IT-1922,Marketing,Cybersecurity,Junior,0.4,High,4.97,12.13,1,Escalated
+IT-1923,Engineering,Software Troubleshooting,Junior,0.4,Medium,1.96,39.42,4,Escalated
+IT-1924,Sales,Cybersecurity,Junior,1.1,Medium,4.42,29.71,7,Escalated
+IT-1925,Sales,Hardware Repair,Senior,9.2,Low,1.26,80.56,15,Resolved
+IT-1926,Finance,Hardware Repair,Senior,11.5,Medium,0.5,85.01,6,Resolved
+IT-1927,Finance,Hardware Repair,Mid-Level,5.1,High,1.98,52.25,2,Escalated
+IT-1928,HR,Software Troubleshooting,Junior,0.9,Medium,1.74,47.29,7,Escalated
+IT-1929,HR,Hardware Repair,Junior,0.5,High,2.49,41.44,2,Escalated
+IT-1930,Sales,Cybersecurity,Mid-Level,4.2,High,3.28,45.83,2,Escalated
+IT-1931,Finance,Asset Deployment,Senior,8.4,High,1.1,73.61,3,Resolved
+IT-1932,Sales,Cybersecurity,Senior,9.6,Medium,2.09,63.27,6,Resolved
+IT-1933,Marketing,Hardware Repair,Junior,0.0,Medium,2.26,41.09,6,Resolved
+IT-1934,Sales,Asset Deployment,Mid-Level,5.0,Medium,1.14,73.72,4,Resolved
+IT-1935,Finance,Hardware Repair,Senior,8.9,Medium,1.77,65.68,6,Resolved
+IT-1936,Engineering,Asset Deployment,Mid-Level,4.0,High,0.5,70.74,2,Resolved
+IT-1937,Finance,Asset Deployment,Senior,7.4,High,0.5,75.1,1,Escalated
+IT-1938,Marketing,Software Troubleshooting,Junior,1.5,Medium,1.84,51.68,4,Escalated
+IT-1939,Finance,Asset Deployment,Junior,0.9,Medium,0.84,61.72,4,Resolved
+IT-1940,HR,Software Troubleshooting,Senior,8.2,Low,0.99,69.93,8,Escalated
+IT-1941,Sales,Network Issue,Mid-Level,4.3,Medium,2.56,53.26,6,Resolved
+IT-1942,Engineering,Cybersecurity,Junior,0.9,Low,4.83,34.0,8,Resolved
+IT-1943,Engineering,Cybersecurity,Mid-Level,3.5,Low,4.29,33.88,11,Escalated
+IT-1944,Sales,Software Troubleshooting,Senior,8.3,Low,0.94,66.15,15,Escalated
+IT-1945,HR,Network Issue,Senior,7.8,Medium,1.39,70.39,4,Resolved
+IT-1946,Finance,Hardware Repair,Junior,1.5,Medium,2.9,45.28,5,Resolved
+IT-1947,Marketing,Cybersecurity,Mid-Level,3.3,High,3.35,42.98,3,Resolved
+IT-1948,Sales,Cybersecurity,Junior,1.1,High,4.54,14.41,3,Escalated
+IT-1949,Finance,Software Troubleshooting,Junior,1.6,High,1.15,61.31,3,Escalated
+IT-1950,Marketing,Cybersecurity,Senior,9.4,Low,1.69,67.93,8,Escalated
+IT-1951,Engineering,Asset Deployment,Junior,1.6,High,0.93,66.29,2,Escalated
+IT-1952,Sales,Hardware Repair,Junior,0.6,Medium,2.71,49.12,5,Resolved
+IT-1953,HR,Asset Deployment,Mid-Level,4.1,Low,0.55,73.77,8,Escalated
+IT-1954,Engineering,Hardware Repair,Junior,1.5,Low,1.66,58.45,12,Resolved
+IT-1955,Engineering,Asset Deployment,Senior,7.4,High,0.81,74.17,3,Escalated
+IT-1956,Finance,Software Troubleshooting,Mid-Level,6.0,High,0.5,81.57,1,Resolved
+IT-1957,Finance,Software Troubleshooting,Senior,9.7,High,0.5,72.8,1,Resolved
+IT-1958,HR,Cybersecurity,Junior,0.2,Medium,4.17,34.38,7,Resolved
+IT-1959,Engineering,Software Troubleshooting,Senior,9.4,High,1.33,71.62,2,Resolved
+IT-1960,HR,Asset Deployment,Mid-Level,3.4,Low,0.5,75.06,14,Escalated
+IT-1961,Sales,Network Issue,Mid-Level,4.5,Medium,2.87,55.84,6,Resolved
+IT-1962,HR,Hardware Repair,Senior,10.2,Low,1.3,72.24,12,Resolved
+IT-1963,Engineering,Hardware Repair,Junior,0.1,Medium,3.08,42.36,7,Resolved
+IT-1964,Marketing,Software Troubleshooting,Junior,1.6,Low,1.7,58.35,12,Resolved
+IT-1965,Engineering,Asset Deployment,Senior,10.2,Medium,0.97,84.3,6,Resolved
+IT-1966,Sales,Cybersecurity,Mid-Level,3.2,High,3.62,35.14,2,Escalated
+IT-1967,Finance,Network Issue,Mid-Level,5.4,High,2.75,52.88,1,Resolved
+IT-1968,Marketing,Software Troubleshooting,Mid-Level,3.7,Medium,1.42,70.15,4,Escalated
+IT-1969,Sales,Cybersecurity,Mid-Level,4.9,High,2.54,46.78,1,Escalated
+IT-1970,HR,Asset Deployment,Senior,11.8,High,0.5,89.0,2,Resolved
+IT-1971,Marketing,Hardware Repair,Senior,9.1,Low,2.11,71.22,14,Resolved
+IT-1972,Engineering,Software Troubleshooting,Senior,8.8,Medium,1.02,70.33,7,Escalated
+IT-1973,Finance,Hardware Repair,Mid-Level,5.5,Medium,1.58,54.58,7,Escalated
+IT-1974,HR,Cybersecurity,Senior,8.2,Low,2.15,63.61,8,Resolved
+IT-1975,HR,Cybersecurity,Mid-Level,5.1,Medium,3.03,51.53,4,Escalated
+IT-1976,Engineering,Hardware Repair,Junior,0.7,High,3.17,25.02,2,Resolved
+IT-1977,Finance,Network Issue,Mid-Level,5.4,Medium,2.13,54.64,7,Escalated
+IT-1978,Engineering,Network Issue,Junior,0.1,Medium,3.86,33.28,6,Escalated
+IT-1979,HR,Hardware Repair,Junior,1.2,Low,2.47,49.73,11,Resolved
+IT-1980,Marketing,Cybersecurity,Senior,11.0,High,1.71,62.82,3,Resolved
+IT-1981,Sales,Asset Deployment,Mid-Level,4.3,Medium,2.09,58.61,6,Resolved
+IT-1982,Finance,Hardware Repair,Junior,1.9,Medium,2.73,43.29,4,Escalated
+IT-1983,Engineering,Asset Deployment,Junior,1.8,Medium,1.71,56.14,5,Escalated
+IT-1984,Sales,Asset Deployment,Mid-Level,4.4,Medium,0.5,78.5,5,Resolved
+IT-1985,Marketing,Hardware Repair,Mid-Level,5.3,High,2.08,50.96,2,Escalated
+IT-1986,Marketing,Cybersecurity,Junior,1.0,High,4.58,21.41,3,Resolved
+IT-1987,Sales,Software Troubleshooting,Senior,7.2,High,1.38,79.33,2,Resolved
+IT-1988,Sales,Software Troubleshooting,Senior,11.6,Medium,0.5,86.25,4,Resolved
+IT-1989,Marketing,Software Troubleshooting,Junior,1.3,Medium,1.75,44.8,7,Escalated
+IT-1990,Engineering,Network Issue,Mid-Level,5.2,High,2.53,54.68,1,Escalated
+IT-1991,Marketing,Software Troubleshooting,Junior,0.1,Low,2.32,58.12,11,Escalated
+IT-1992,HR,Cybersecurity,Mid-Level,4.8,High,3.45,39.2,1,Escalated
+IT-1993,Marketing,Network Issue,Mid-Level,3.8,High,3.98,30.28,2,Escalated
+IT-1994,Finance,Network Issue,Mid-Level,4.9,Low,2.29,59.39,15,Resolved
+IT-1995,HR,Cybersecurity,Senior,7.2,Medium,3.33,55.85,4,Resolved
+IT-1996,Sales,Software Troubleshooting,Mid-Level,5.3,Low,1.13,71.38,14,Escalated
+IT-1997,Finance,Software Troubleshooting,Mid-Level,3.9,Low,1.36,64.91,10,Escalated
+IT-1998,Finance,Cybersecurity,Mid-Level,3.2,High,3.87,38.4,1,Escalated
+IT-1999,Sales,Cybersecurity,Mid-Level,4.1,High,3.44,40.2,2,Resolved
